@@ -1,0 +1,3271 @@
+[
+ {
+   "street_address": "Clearview Ln",
+   "city": "Millbrook",
+   "state": "AL",
+   "latitude": 32.529577,
+   "longitude": -86.362829
+ },
+ {
+   "street_address": "300 block Iris Park Dr",
+   "city": "Pineville",
+   "state": "LA",
+   "latitude": 31.3217392,
+   "longitude": -92.4348602
+ },
+ {
+   "street_address": "22nd Ave and 56th St",
+   "city": "Kenosha",
+   "state": "WI",
+   "latitude": 42.5835597,
+   "longitude": -87.8357101
+ },
+ {
+   "street_address": "3000 Seminole Ave",
+   "city": "South Gate",
+   "state": "CA",
+   "latitude": 33.9392976,
+   "longitude": -118.2194634
+ },
+ {
+   "street_address": "364 Hiwood Ave",
+   "city": "Munroe Falls",
+   "state": "OH",
+   "latitude": 41.1485748,
+   "longitude": -81.4298782
+ },
+ {
+   "street_address": "18th St and Palm Ln",
+   "city": "Phoenix",
+   "state": "AZ",
+   "latitude": 33.4693799,
+   "longitude": -112.0433197
+ },
+ {
+   "street_address": "4000 Union Ave",
+   "city": "Bakersfield",
+   "state": "CA",
+   "latitude": 35.3956975,
+   "longitude": -119.0027449
+ },
+ {
+   "street_address": "1500 Bayview Ave",
+   "city": "Wilmington",
+   "state": "CA",
+   "latitude": 33.7930495,
+   "longitude": -118.2709256
+ },
+ {
+   "street_address": "Pickett Runn Rd",
+   "city": "Sunset",
+   "state": "TX",
+   "latitude": 30.6653042,
+   "longitude": -96.4014816
+ },
+ {
+   "street_address": "200 Abbie St SE",
+   "city": "Wyoming",
+   "state": "MI",
+   "latitude": 42.8932381,
+   "longitude": -85.6605835
+ },
+ {
+   "street_address": "7th Ave and Kansas Ave",
+   "city": "Hanford",
+   "state": "CA",
+   "latitude": 36.2109603,
+   "longitude": -119.5828798
+ },
+ {
+   "street_address": "28 Paseo Viento",
+   "city": "Rancho Santa Margarita",
+   "state": "CA",
+   "latitude": 33.6533852,
+   "longitude": -117.6133728
+ },
+ {
+   "street_address": "1200 E Airtex Dr",
+   "city": "Houston",
+   "state": "TX",
+   "latitude": 29.9832049,
+   "longitude": -95.4038566
+ },
+ {
+   "street_address": "25th St and Poplar St",
+   "city": "Terre Haute ",
+   "state": "IN",
+   "latitude": 39.4629302,
+   "longitude": -87.3788602
+ },
+ {
+   "street_address": "5700 block Ashby Dr",
+   "city": "Indianapolis",
+   "state": "IN",
+   "latitude": 39.7669106,
+   "longitude": -86.1499634
+ },
+ {
+   "street_address": "1128 Murfreesboro Pike",
+   "city": "Nashville",
+   "state": "TN",
+   "latitude": 36.1259117,
+   "longitude": -86.7090149
+ },
+ {
+   "street_address": "141 Pryor St SW",
+   "city": "Atlanta",
+   "state": "GA",
+   "latitude": 33.7512627,
+   "longitude": -84.3930283
+ },
+ {
+   "street_address": "4219 2nd Road N",
+   "city": "Arlington",
+   "state": "VA",
+   "latitude": 38.8731527,
+   "longitude": -77.1050099
+ },
+ {
+   "street_address": "Van Ness Ave and Pine St",
+   "city": "San Francisco",
+   "state": "CA",
+   "latitude": 37.7894309,
+   "longitude": -122.4220984
+ },
+ {
+   "street_address": "1 Moreland Dr",
+   "city": "San Francisco",
+   "state": "CA",
+   "latitude": 37.6279793,
+   "longitude": -122.4539337
+ },
+ {
+   "street_address": "Folsom St and 24th St",
+   "city": "San Francisco",
+   "state": "CA",
+   "latitude": 37.7525108,
+   "longitude": -122.4140801
+ },
+ {
+   "street_address": "1223 Omaha Ave",
+   "city": "Norfolk",
+   "state": "NE",
+   "latitude": 42.0185249,
+   "longitude": -97.3862886
+ },
+ {
+   "street_address": "S 12th St and Ruby St",
+   "city": "Kansas City",
+   "state": "KS",
+   "latitude": 39.0714403,
+   "longitude": -94.6402303
+ },
+ {
+   "street_address": "9700 Kempster Ave",
+   "city": "Fontana",
+   "state": "CA",
+   "latitude": 34.0774421,
+   "longitude": -117.4297614
+ },
+ {
+   "street_address": "1200 W Florida Ave",
+   "city": "Chickasha",
+   "state": "OK",
+   "latitude": 35.0401063,
+   "longitude": -97.9480673
+ },
+ {
+   "street_address": "360 Argyle Ct",
+   "city": "Medford",
+   "state": "OR",
+   "latitude": 42.3301735,
+   "longitude": -122.898735
+ },
+ {
+   "street_address": "Scobie Pond Rd and Julian Rd",
+   "city": "Derry",
+   "state": "NH",
+   "latitude": 42.9080801,
+   "longitude": -71.3366499
+ },
+ {
+   "street_address": "Tyler St and Glenoaks Blvd",
+   "city": "Sylmar",
+   "state": "CA",
+   "latitude": 34.31029,
+   "longitude": -118.4531897
+ },
+ {
+   "street_address": "Putnam Loop Rd",
+   "city": "Putnam Hall",
+   "state": "FL",
+   "latitude": 29.743281,
+   "longitude": -81.963951
+ },
+ {
+   "street_address": "4400 Tetons Dr",
+   "city": "El Paso",
+   "state": "TX",
+   "latitude": 31.8576378,
+   "longitude": -106.4396178
+ },
+ {
+   "street_address": "4740 Barham Ave",
+   "city": "Corning",
+   "state": "CA",
+   "latitude": 39.9362717,
+   "longitude": -122.2013168
+ },
+ {
+   "street_address": "Humboldt Ave and Ruthven St",
+   "city": "Roxbury",
+   "state": "MA",
+   "latitude": 42.3126099,
+   "longitude": -71.0899229
+ },
+ {
+   "street_address": "4545 Aldridge Dr",
+   "city": "Memphis",
+   "state": "TN",
+   "latitude": 35.0246391,
+   "longitude": -90.0544891
+ },
+ {
+   "street_address": "1100 E Gateway Dr SE",
+   "city": "Huntsville",
+   "state": "AL",
+   "latitude": 34.6168404,
+   "longitude": -86.5641098
+ },
+ {
+   "street_address": "Lower Pond Ct",
+   "city": "Clarkesville",
+   "state": "GA",
+   "latitude": 34.6314812,
+   "longitude": -83.5972519
+ },
+ {
+   "street_address": "305 E Walnut St",
+   "city": "Lancaster",
+   "state": "PA",
+   "latitude": 40.0434474,
+   "longitude": -76.2999885
+ },
+ {
+   "street_address": "3028 Chamblee Dunwoody Rd",
+   "city": "Chamblee",
+   "state": "GA",
+   "latitude": 33.8942184,
+   "longitude": -84.3032227
+ },
+ {
+   "street_address": "1404 N June Ave",
+   "city": "Douglas",
+   "state": "GA",
+   "latitude": 31.5233612,
+   "longitude": -82.8451767
+ },
+ {
+   "street_address": "2400 Flower St",
+   "city": "Los Angeles",
+   "state": "CA",
+   "latitude": 34.0280075,
+   "longitude": -118.2735977
+ },
+ {
+   "street_address": "1107 W Lewis St",
+   "city": "Pasco",
+   "state": "WA",
+   "latitude": 46.2285118,
+   "longitude": -119.1019287
+ },
+ {
+   "street_address": "9661 Strong Hwy",
+   "city": "Strong",
+   "state": "AR",
+   "latitude": 33.1112823,
+   "longitude": -92.3590775
+ },
+ {
+   "street_address": "3189 Morton Bend Rd",
+   "city": "Rome",
+   "state": "GA",
+   "latitude": 34.2185669,
+   "longitude": -85.3869934
+ },
+ {
+   "street_address": "3632 SW 38th St",
+   "city": "Oklahoma City",
+   "state": "OK",
+   "latitude": 35.4262543,
+   "longitude": -97.5826111
+ },
+ {
+   "street_address": "5236 Robin Ln N",
+   "city": "St Petersburg",
+   "state": "FL",
+   "latitude": 27.8200741,
+   "longitude": -82.6588058
+ },
+ {
+   "street_address": "104 N Garfield Ave",
+   "city": "Burlington",
+   "state": "IA",
+   "latitude": 40.8100281,
+   "longitude": -91.1185837
+ },
+ {
+   "street_address": "300 S Main St",
+   "city": "Santa Ana",
+   "state": "CA",
+   "latitude": 33.7431641,
+   "longitude": -117.867981
+ },
+ {
+   "street_address": "West Texas Ave and Gaillard St",
+   "city": "Baytown",
+   "state": "TX",
+   "latitude": 29.7330154,
+   "longitude": -94.9706357
+ },
+ {
+   "street_address": "Metropolitan Pkwy and Fair Dr",
+   "city": "Atlanta",
+   "state": "GA",
+   "latitude": 33.7033899,
+   "longitude": -84.4080502
+ },
+ {
+   "street_address": "2325 Union Rd",
+   "city": "Gastonia",
+   "state": "NC",
+   "latitude": 35.2286491,
+   "longitude": -81.1696243
+ },
+ {
+   "street_address": "Arenal Rd SW and Tapia Blvd SW",
+   "city": "Albuquerque",
+   "state": "NM",
+   "latitude": 35.05179,
+   "longitude": -106.6883397
+ },
+ {
+   "street_address": "NA",
+   "city": "Bunch",
+   "state": "OK",
+   "latitude": 35.6848412,
+   "longitude": -94.7619019
+ },
+ {
+   "street_address": "700 14th St NW ",
+   "city": "Washington",
+   "state": "DC",
+   "latitude": 38.8984573,
+   "longitude": -77.032015
+ },
+ {
+   "street_address": "900 Castile Rd SE",
+   "city": "Palm Bay",
+   "state": "FL",
+   "latitude": 27.9906769,
+   "longitude": -80.6457672
+ },
+ {
+   "street_address": "1077 Parkwood Dr",
+   "city": "Cleveland",
+   "state": "OH",
+   "latitude": 41.5285759,
+   "longitude": -81.6090775
+ },
+ {
+   "street_address": "800 Simpson Rd",
+   "city": "Victoria",
+   "state": "TX",
+   "latitude": 28.8776989,
+   "longitude": -97.0015351
+ },
+ {
+   "street_address": "9000 Charles Way",
+   "city": "Middleton",
+   "state": "ID",
+   "latitude": 43.7041283,
+   "longitude": -116.5797195
+ },
+ {
+   "street_address": "1602 Pacific Ave",
+   "city": "Los Angeles",
+   "state": "CA",
+   "latitude": 33.9877281,
+   "longitude": -118.4717178
+ },
+ {
+   "street_address": "2200 Devos St",
+   "city": "Eugene",
+   "state": "OR",
+   "latitude": 44.0894276,
+   "longitude": -123.1812222
+ },
+ {
+   "street_address": "8900 Kauffman Ave",
+   "city": "South Gate",
+   "state": "CA",
+   "latitude": 33.9523485,
+   "longitude": -118.1889472
+ },
+ {
+   "street_address": "I-70 and US-6",
+   "city": "Glenwood Springs",
+   "state": "CO",
+   "latitude": 39.5608522,
+   "longitude": -107.3613187
+ },
+ {
+   "street_address": "1600 E 123rd St",
+   "city": "Los Angeles",
+   "state": "CA",
+   "latitude": 33.9208252,
+   "longitude": -118.2461601
+ },
+ {
+   "street_address": "2388 E Kansas Hwy 4",
+   "city": "Assaria",
+   "state": "KS",
+   "latitude": 38.7112324,
+   "longitude": -97.5695687
+ },
+ {
+   "street_address": "29000 S Wall St",
+   "city": "Colton",
+   "state": "OR",
+   "latitude": 45.1577606,
+   "longitude": -122.4377594
+ },
+ {
+   "street_address": "1031 Nuuanu Ave",
+   "city": "Honolulu",
+   "state": "HI",
+   "latitude": 21.3106435,
+   "longitude": -157.8625984
+ },
+ {
+   "street_address": "111 Towne Dr",
+   "city": "Elizabethtown",
+   "state": "KY",
+   "latitude": 37.734657,
+   "longitude": -85.888427
+ },
+ {
+   "street_address": "1701 Andros Isle",
+   "city": "Coconut Creek",
+   "state": "FL",
+   "latitude": 26.256782,
+   "longitude": -80.167854
+ },
+ {
+   "street_address": "South San Joaquin St and East Church St",
+   "city": "Stockton",
+   "state": "CA",
+   "latitude": 37.9482801,
+   "longitude": -121.2858499
+ },
+ {
+   "street_address": "101 Naco Hwy",
+   "city": "Bisbee",
+   "state": "AZ",
+   "latitude": 31.3995342,
+   "longitude": -109.9178085
+ },
+ {
+   "street_address": "Kentucky Rte 7",
+   "city": "Gunlock",
+   "state": "KY",
+   "latitude": 37.5631485,
+   "longitude": -82.9268265
+ },
+ {
+   "street_address": "497 Florida Ave",
+   "city": "St Augustine",
+   "state": "FL",
+   "latitude": 29.850338,
+   "longitude": -81.2775116
+ },
+ {
+   "street_address": "13331 Strathmoor St",
+   "city": "Detroit",
+   "state": "MI",
+   "latitude": 42.3859138,
+   "longitude": -83.1876144
+ },
+ {
+   "street_address": "Aurora St",
+   "city": "Cocoa",
+   "state": "FL",
+   "latitude": 28.35171,
+   "longitude": -80.748771
+ },
+ {
+   "street_address": "3 Greens Rd",
+   "city": "Houston",
+   "state": "TX",
+   "latitude": 29.9494667,
+   "longitude": -95.4163284
+ },
+ {
+   "street_address": "Hammonton Smartville Rd",
+   "city": "Marysville",
+   "state": "CA",
+   "latitude": 39.1221504,
+   "longitude": -121.5654984
+ },
+ {
+   "street_address": "500 San Pedro St",
+   "city": "Los Angeles",
+   "state": "CA",
+   "latitude": 34.0437775,
+   "longitude": -118.243721
+ },
+ {
+   "street_address": "South Carolina Rte 8 and Augusta Rd",
+   "city": "Peltzer",
+   "state": "SC",
+   "latitude": 34.6285944,
+   "longitude": -82.3912225
+ },
+ {
+   "street_address": "Coronado Trail",
+   "city": "Morenci",
+   "state": "AZ",
+   "latitude": 33.0515518,
+   "longitude": -109.3249283
+ },
+ {
+   "street_address": "4585 Frederica St",
+   "city": "Owensboro",
+   "state": "KY",
+   "latitude": 37.7242317,
+   "longitude": -87.1226807
+ },
+ {
+   "street_address": "900 Walnut St",
+   "city": "Jonesboro",
+   "state": "AR",
+   "latitude": 35.8342552,
+   "longitude": -90.7173691
+ },
+ {
+   "street_address": "2300 SE 130th Ave",
+   "city": "Portland",
+   "state": "OR",
+   "latitude": 45.5057439,
+   "longitude": -122.5299
+ },
+ {
+   "street_address": "6530 Georgia Rte 21",
+   "city": "Port Wentworth",
+   "state": "GA",
+   "latitude": 32.1656761,
+   "longitude": -81.1842117
+ },
+ {
+   "street_address": "123 Gregory Pl",
+   "city": "Winchester",
+   "state": "VA",
+   "latitude": 39.1907845,
+   "longitude": -78.128479
+ },
+ {
+   "street_address": "600 Main St",
+   "city": "Follansbee",
+   "state": "WV",
+   "latitude": 40.3233614,
+   "longitude": -80.5951533
+ },
+ {
+   "street_address": "1600 W 500 N",
+   "city": "Provo",
+   "state": "UT",
+   "latitude": 40.2463989,
+   "longitude": -111.6674271
+ },
+ {
+   "street_address": "4100 Avenue I",
+   "city": "Rosenberg",
+   "state": "TX",
+   "latitude": 29.5576077,
+   "longitude": -95.7844925
+ },
+ {
+   "street_address": "E Broadway and US-63",
+   "city": "Columbia",
+   "state": "MO",
+   "latitude": 38.9464501,
+   "longitude": -92.2934712
+ },
+ {
+   "street_address": "5101 Georgia Rte 133",
+   "city": "Moultrie",
+   "state": "GA",
+   "latitude": 31.0882878,
+   "longitude": -83.6398052
+ },
+ {
+   "street_address": "7300 Blanding Blvd",
+   "city": "Jacksonville",
+   "state": "FL",
+   "latitude": 30.2145387,
+   "longitude": -81.7372566
+ },
+ {
+   "street_address": "13900 Castle Blvd",
+   "city": "Silver Spring",
+   "state": "MD",
+   "latitude": 39.0841484,
+   "longitude": -76.9422684
+ },
+ {
+   "street_address": "530 Stanley Ave",
+   "city": "New York",
+   "state": "NY",
+   "latitude": 40.6572562,
+   "longitude": -73.8886551
+ },
+ {
+   "street_address": "1363 Clark Dr",
+   "city": "Sidney",
+   "state": "NE",
+   "latitude": 41.121974,
+   "longitude": -102.982879
+ },
+ {
+   "street_address": "NE 36th St",
+   "city": "Fort Worth",
+   "state": "TX",
+   "latitude": 32.810365,
+   "longitude": -97.342555
+ },
+ {
+   "street_address": "8351 N Cracker Barrel Rd",
+   "city": "Marana",
+   "state": "AZ",
+   "latitude": 32.3580589,
+   "longitude": -111.0924911
+ },
+ {
+   "street_address": "3600 SW 108th St",
+   "city": "Lakewood",
+   "state": "WA",
+   "latitude": 47.1592102,
+   "longitude": -122.4849472
+ },
+ {
+   "street_address": "8624 Firestone Cir",
+   "city": "Clermont",
+   "state": "FL",
+   "latitude": 28.5670815,
+   "longitude": -81.8123245
+ },
+ {
+   "street_address": "1299 Hickory St",
+   "city": "Omaha",
+   "state": "NE",
+   "latitude": 41.2427938,
+   "longitude": -95.9331281
+ },
+ {
+   "street_address": "200 S McNab Pkwy",
+   "city": "San Manuel",
+   "state": "AZ",
+   "latitude": 32.6101336,
+   "longitude": -110.6317321
+ },
+ {
+   "street_address": "1714 Walker Ave",
+   "city": "Union",
+   "state": "NJ",
+   "latitude": 40.7107079,
+   "longitude": -74.2532176
+ },
+ {
+   "street_address": "1900 McHenry St",
+   "city": "Baltimore",
+   "state": "MD",
+   "latitude": 39.2844658,
+   "longitude": -76.6468658
+ },
+ {
+   "street_address": "616 SW 59th St",
+   "city": "Oklahoma City",
+   "state": "OK",
+   "latitude": 35.4057617,
+   "longitude": -97.524292
+ },
+ {
+   "street_address": "402 North Prospect St",
+   "city": "Hagerstown",
+   "state": "MD",
+   "latitude": 39.6494503,
+   "longitude": -77.7206332
+ },
+ {
+   "street_address": "3164 Charlotte Hwy",
+   "city": "Lancaster",
+   "state": "SC",
+   "latitude": 34.7966959,
+   "longitude": -80.7973288
+ },
+ {
+   "street_address": "12th Ave and Glenhurst Ct",
+   "city": "Rock Island",
+   "state": "IL",
+   "latitude": 41.4996099,
+   "longitude": -90.5816397
+ },
+ {
+   "street_address": "164 E Main St",
+   "city": "Rexburg",
+   "state": "ID",
+   "latitude": 43.8255653,
+   "longitude": -111.7787094
+ },
+ {
+   "street_address": "4660 N Socrum Loop Rd",
+   "city": "Lakeland",
+   "state": "FL",
+   "latitude": 28.1034451,
+   "longitude": -81.9506454
+ },
+ {
+   "street_address": "N 10th St and Gunnison Ave",
+   "city": "Grand Junction",
+   "state": "CO",
+   "latitude": 39.0733903,
+   "longitude": -108.5559598
+ },
+ {
+   "street_address": "5111 Fairbanks Dr",
+   "city": "El Paso",
+   "state": "TX",
+   "latitude": 31.9034023,
+   "longitude": -106.4228592
+ },
+ {
+   "street_address": "1134 E St",
+   "city": "Wasco",
+   "state": "CA",
+   "latitude": 35.5890732,
+   "longitude": -119.3347549
+ },
+ {
+   "street_address": "300 Stone Monument Dr",
+   "city": "Wake Forest",
+   "state": "NC",
+   "latitude": 35.9575348,
+   "longitude": -78.527153
+ },
+ {
+   "street_address": "14680 Middle Gibraltar Rd",
+   "city": "Rockwood",
+   "state": "MI",
+   "latitude": 42.0951881,
+   "longitude": -83.2008743
+ },
+ {
+   "street_address": "36 Grandview Rd",
+   "city": "Hanover",
+   "state": "PA",
+   "latitude": 39.7720299,
+   "longitude": -76.9661789
+ },
+ {
+   "street_address": "11974-11998 US-64",
+   "city": "Muskogee County",
+   "state": "OK",
+   "latitude": 35.7550087,
+   "longitude": -95.4025574
+ },
+ {
+   "street_address": "36 Randall Rd",
+   "city": "Mansfield",
+   "state": "OH",
+   "latitude": 40.7386665,
+   "longitude": -82.5156326
+ },
+ {
+   "street_address": "168 Auringer Rd",
+   "city": "Constantania",
+   "state": "NY",
+   "latitude": 43.265415,
+   "longitude": -76.005973
+ },
+ {
+   "street_address": "US-65",
+   "city": "Tallulah",
+   "state": "LA",
+   "latitude": 32.3727417,
+   "longitude": -91.1993637
+ },
+ {
+   "street_address": "134 Burban Dr",
+   "city": "Branford",
+   "state": "CT",
+   "latitude": 41.2693481,
+   "longitude": -72.8428955
+ },
+ {
+   "street_address": "13600 Culver Blvd",
+   "city": "Los Angeles",
+   "state": "CA",
+   "latitude": 34.0021591,
+   "longitude": -118.4123077
+ },
+ {
+   "street_address": "13822 Brookhurst St",
+   "city": "Garden Grove",
+   "state": "CA",
+   "latitude": 33.7610283,
+   "longitude": -117.953743
+ },
+ {
+   "street_address": "400 N Birch",
+   "city": "Gardner",
+   "state": "KS",
+   "latitude": 38.816658,
+   "longitude": -94.9135437
+ },
+ {
+   "street_address": "8100 North Carolina Hwy 41",
+   "city": "Dublin",
+   "state": "NC",
+   "latitude": 34.6425728,
+   "longitude": -78.7416717
+ },
+ {
+   "street_address": "3020 Destrehan Ave",
+   "city": "Harvey",
+   "state": "LA",
+   "latitude": 29.8598535,
+   "longitude": -90.0722601
+ },
+ {
+   "street_address": "1980 NW 46 Ave",
+   "city": "Lauderhill",
+   "state": "FL",
+   "latitude": 26.1503577,
+   "longitude": -80.2101228
+ },
+ {
+   "street_address": "274 E 194th St",
+   "city": "New York",
+   "state": "NY",
+   "latitude": 40.8646202,
+   "longitude": -73.8924332
+ },
+ {
+   "street_address": "7700 Mesa College Dr",
+   "city": "San Diego",
+   "state": "CA",
+   "latitude": 32.8019612,
+   "longitude": -117.154332
+ },
+ {
+   "street_address": "1851 Sunrise Hwy",
+   "city": "Bay Shore",
+   "state": "NY",
+   "latitude": 40.7399445,
+   "longitude": -73.2372284
+ },
+ {
+   "street_address": "800 Maybrook Dr",
+   "city": "Deltona",
+   "state": "FL",
+   "latitude": 28.8863035,
+   "longitude": -81.2532239
+ },
+ {
+   "street_address": "7400 Bonnie View Rd",
+   "city": "Dallas",
+   "state": "TX",
+   "latitude": 32.6565955,
+   "longitude": -96.7502993
+ },
+ {
+   "street_address": "2515 Manhattan Blvd",
+   "city": "Harvey",
+   "state": "LA",
+   "latitude": 29.8768171,
+   "longitude": -90.0489899
+ },
+ {
+   "street_address": "331 W Grand Ledge Hwy",
+   "city": "Roxand Township",
+   "state": "MI",
+   "latitude": 42.7556214,
+   "longitude": -84.8926637
+ },
+ {
+   "street_address": "2105 Scott Blvd",
+   "city": "Santa Clara",
+   "state": "CA",
+   "latitude": 37.3612938,
+   "longitude": -121.959137
+ },
+ {
+   "street_address": "Chaparral Rd and Hayden Rd",
+   "city": "Scottsdale",
+   "state": "AZ",
+   "latitude": 33.50943,
+   "longitude": -111.9087198
+ },
+ {
+   "street_address": "1000 Claudia Ct",
+   "city": "Antioch",
+   "state": "CA",
+   "latitude": 37.9996185,
+   "longitude": -121.8187332
+ },
+ {
+   "street_address": "3022 James Rd",
+   "city": "Valdosta",
+   "state": "GA",
+   "latitude": 30.8424794,
+   "longitude": -83.3328619
+ },
+ {
+   "street_address": "1301 Spring Meadow Ln",
+   "city": "Culpeper",
+   "state": "VA",
+   "latitude": 38.4843175,
+   "longitude": -77.9793973
+ },
+ {
+   "street_address": "8516 N Meridian Rd",
+   "city": "Monon",
+   "state": "IN",
+   "latitude": 40.8749496,
+   "longitude": -86.8776412
+ },
+ {
+   "street_address": "Lark St and Second St",
+   "city": "Albany",
+   "state": "NY",
+   "latitude": 42.6610199,
+   "longitude": -73.7579497
+ },
+ {
+   "street_address": "Illinois Rte 145 and Waldo Church Rd",
+   "city": "Metropolis",
+   "state": "IL",
+   "latitude": 37.1760399,
+   "longitude": -88.6766698
+ },
+ {
+   "street_address": "Mt Pleasant Rd",
+   "city": "Lucedale",
+   "state": "MS",
+   "latitude": 30.8003197,
+   "longitude": -88.6320801
+ },
+ {
+   "street_address": "200 Canaan Pointe Dr",
+   "city": "Spartanburg",
+   "state": "SC",
+   "latitude": 34.9038367,
+   "longitude": -81.9115352
+ },
+ {
+   "street_address": "East 38th St and North Mitthoeffer Rd",
+   "city": "Indianapolis",
+   "state": "IN",
+   "latitude": 39.8262703,
+   "longitude": -85.9910497
+ },
+ {
+   "street_address": "Forest Ave",
+   "city": "Tewksbury",
+   "state": "MA",
+   "latitude": 42.6146317,
+   "longitude": -71.2831421
+ },
+ {
+   "street_address": "Karen Ln and Corinne Dr",
+   "city": "San Antonio",
+   "state": "TX",
+   "latitude": 29.4894164,
+   "longitude": -98.4276711
+ },
+ {
+   "street_address": "7901 1st Ave S",
+   "city": "Birmingham",
+   "state": "AL",
+   "latitude": 33.5637512,
+   "longitude": -86.7238083
+ },
+ {
+   "street_address": "Yuma Circle",
+   "city": "Cottonwood",
+   "state": "AZ",
+   "latitude": 34.6895294,
+   "longitude": -111.9851837
+ },
+ {
+   "street_address": "Fern Ave and Phillips St",
+   "city": "Ontario",
+   "state": "CA",
+   "latitude": 34.0500802,
+   "longitude": -117.6546599
+ },
+ {
+   "street_address": "9800 Liberty Rd",
+   "city": "Randallstown",
+   "state": "MD",
+   "latitude": 39.3798716,
+   "longitude": -76.820209
+ },
+ {
+   "street_address": "Girard Street and Acacia Ave",
+   "city": "Hemet",
+   "state": "CA",
+   "latitude": 33.7439798,
+   "longitude": -116.95425
+ },
+ {
+   "street_address": "4999 Naaman Forest Blvd",
+   "city": "Garland",
+   "state": "TX",
+   "latitude": 32.9599406,
+   "longitude": -96.6389561
+ },
+ {
+   "street_address": "10 Temple Ave",
+   "city": "Hackensack",
+   "state": "NJ",
+   "latitude": 40.9011307,
+   "longitude": -74.040863
+ },
+ {
+   "street_address": "2003 E Rodeo Dr",
+   "city": "Cottonwood",
+   "state": "AZ",
+   "latitude": 34.713047,
+   "longitude": -112.0006409
+ },
+ {
+   "street_address": "1900 block N Harvard Ave",
+   "city": "Tulsa",
+   "state": "OK",
+   "latitude": 36.1497383,
+   "longitude": -95.9933319
+ },
+ {
+   "street_address": "135 N Main St",
+   "city": "Eagar",
+   "state": "AZ",
+   "latitude": 34.1133387,
+   "longitude": -109.2914933
+ },
+ {
+   "street_address": "Post Office Neck Rd and Lake Rd",
+   "city": "Shawnee",
+   "state": "OK",
+   "latitude": 35.33308,
+   "longitude": -97.0646703
+ },
+ {
+   "street_address": "11565 James Watt Dr",
+   "city": "El Paso",
+   "state": "TX",
+   "latitude": 31.7398815,
+   "longitude": -106.3106995
+ },
+ {
+   "street_address": "20th St and Thomas Rd",
+   "city": "Phoenix",
+   "state": "AZ",
+   "latitude": 33.4802603,
+   "longitude": -112.0388203
+ },
+ {
+   "street_address": "11157 Chico Ave",
+   "city": "Pomona",
+   "state": "CA",
+   "latitude": 34.0511284,
+   "longitude": -117.720726
+ },
+ {
+   "street_address": "1000 W 3rd St",
+   "city": "Santa Ana",
+   "state": "CA",
+   "latitude": 33.7470254,
+   "longitude": -117.8777748
+ },
+ {
+   "street_address": "Mountainair St",
+   "city": "Edgewood",
+   "state": "NM",
+   "latitude": 35.0556297,
+   "longitude": -106.1947021
+ },
+ {
+   "street_address": "313 S Houston Ave",
+   "city": "Onalaska",
+   "state": "TX",
+   "latitude": 30.706146,
+   "longitude": -94.930023
+ },
+ {
+   "street_address": "East Rd and Olivia St",
+   "city": "Salisbury",
+   "state": "MD",
+   "latitude": 38.3791997,
+   "longitude": -75.6071202
+ },
+ {
+   "street_address": "538 E Sixth St",
+   "city": "New York",
+   "state": "NY",
+   "latitude": 40.5887968,
+   "longitude": -73.9643034
+ },
+ {
+   "street_address": "4600 E 15th St",
+   "city": "Long Beach",
+   "state": "CA",
+   "latitude": 33.785408,
+   "longitude": -118.1393127
+ },
+ {
+   "street_address": "Booger Hollow Rd",
+   "city": "Dadeville",
+   "state": "AL",
+   "latitude": 32.864521,
+   "longitude": -85.7209778
+ },
+ {
+   "street_address": "9000 Buena Vista St",
+   "city": "Apple Valley",
+   "state": "CA",
+   "latitude": 34.4155171,
+   "longitude": -117.1768954
+ },
+ {
+   "street_address": "5300 East Craig Road",
+   "city": "Las Vegas",
+   "state": "NV",
+   "latitude": 36.2421112,
+   "longitude": -115.0569458
+ },
+ {
+   "street_address": "Castlegory Rd and Wallisville Rd",
+   "city": "Houston",
+   "state": "TX",
+   "latitude": 29.806377,
+   "longitude": -95.1731886
+ },
+ {
+   "street_address": "8700 E 97th Ter",
+   "city": "Kansas City",
+   "state": "MO",
+   "latitude": 38.9474373,
+   "longitude": -94.4866943
+ },
+ {
+   "street_address": "Mount St and Presbury St",
+   "city": "Baltimore",
+   "state": "MD",
+   "latitude": 39.3079703,
+   "longitude": -76.6448703
+ },
+ {
+   "street_address": "3200 Hancock St",
+   "city": "San Diego",
+   "state": "CA",
+   "latitude": 32.7543667,
+   "longitude": -117.2051807
+ },
+ {
+   "street_address": "Lake Ella",
+   "city": "Tallahassee",
+   "state": "FL",
+   "latitude": 30.4609642,
+   "longitude": -84.2794113
+ },
+ {
+   "street_address": "Crowell Rd and Tipcart Dr",
+   "city": "Chatham",
+   "state": "MA",
+   "latitude": 41.6848183,
+   "longitude": -69.966423
+ },
+ {
+   "street_address": "1701 Ridgecrest Rd",
+   "city": "Edmond",
+   "state": "OK",
+   "latitude": 35.6332283,
+   "longitude": -97.4577179
+ },
+ {
+   "street_address": "H St NW and 20th Ave NW",
+   "city": "Miami",
+   "state": "OK",
+   "latitude": 36.8973899,
+   "longitude": -94.8865503
+ },
+ {
+   "street_address": "Shadytree Ln and Glen Arbor Dr",
+   "city": "Encinitas",
+   "state": "CA",
+   "latitude": 33.0497403,
+   "longitude": -117.24153
+ },
+ {
+   "street_address": "1790 E Voorhees St",
+   "city": "Harmony",
+   "state": "IN",
+   "latitude": 39.5332565,
+   "longitude": -87.0744171
+ },
+ {
+   "street_address": "Cliffs Landing Rd",
+   "city": "Bay Minette",
+   "state": "AL",
+   "latitude": 30.8661098,
+   "longitude": -87.880188
+ },
+ {
+   "street_address": "2201 NW 27th St",
+   "city": "Oklahoma City",
+   "state": "OK",
+   "latitude": 35.4976883,
+   "longitude": -97.5500717
+ },
+ {
+   "street_address": "9265 Quail Roost Dr",
+   "city": "Navarre",
+   "state": "FL",
+   "latitude": 30.4130363,
+   "longitude": -86.8348923
+ },
+ {
+   "street_address": "2293 N Main St",
+   "city": "Crown Point",
+   "state": "IN",
+   "latitude": 41.4479828,
+   "longitude": -87.371109
+ },
+ {
+   "street_address": "1200 Beck Ave",
+   "city": "Panama City",
+   "state": "FL",
+   "latitude": 30.1703529,
+   "longitude": -85.7008362
+ },
+ {
+   "street_address": "Sparta Hwy and Oconee Springs Rd",
+   "city": "Eatonton",
+   "state": "GA",
+   "latitude": 33.3434998,
+   "longitude": -83.2064702
+ },
+ {
+   "street_address": "Horseshoe Run Rd",
+   "city": "Fort Ashby",
+   "state": "WV",
+   "latitude": 39.481971,
+   "longitude": -78.812003
+ },
+ {
+   "street_address": "4600 International Gateway",
+   "city": "Columbus",
+   "state": "OH",
+   "latitude": 39.997512,
+   "longitude": -82.890052
+ },
+ {
+   "street_address": "1100 Hoffman Ave",
+   "city": "Long Beach",
+   "state": "CA",
+   "latitude": 33.780946,
+   "longitude": -118.1735922
+ },
+ {
+   "street_address": "1000 SW 62nd St",
+   "city": "Oklahoma City",
+   "state": "OK",
+   "latitude": 35.4030647,
+   "longitude": -97.5325623
+ },
+ {
+   "street_address": "1110 Battleground Dr",
+   "city": "Iuka",
+   "state": "MS",
+   "latitude": 34.8047029,
+   "longitude": -88.202415
+ },
+ {
+   "street_address": "US-150",
+   "city": "Stanford",
+   "state": "KY",
+   "latitude": 37.51334,
+   "longitude": -84.5990601
+ },
+ {
+   "street_address": "E Kennedy St",
+   "city": "Hackensack",
+   "state": "NJ",
+   "latitude": 40.8674316,
+   "longitude": -74.0377197
+ },
+ {
+   "street_address": "13442 Bellaire Blvd",
+   "city": "Houston",
+   "state": "TX",
+   "latitude": 29.704109,
+   "longitude": -95.621871
+ },
+ {
+   "street_address": "2300 block Main St",
+   "city": "Tarboro",
+   "state": "NC",
+   "latitude": 35.9069519,
+   "longitude": -77.5407562
+ },
+ {
+   "street_address": "4200 St Louis Ave",
+   "city": "St Louis",
+   "state": "MO",
+   "latitude": 38.6609879,
+   "longitude": -90.2338638
+ },
+ {
+   "street_address": "3400 Lincoln Ave",
+   "city": "Alton",
+   "state": "IL",
+   "latitude": 38.8918839,
+   "longitude": -90.1335983
+ },
+ {
+   "street_address": "4304 Pershing Pointe Pl",
+   "city": "Orlando",
+   "state": "FL",
+   "latitude": 28.4995747,
+   "longitude": -81.3055038
+ },
+ {
+   "street_address": "1600 3rd St",
+   "city": "Bay City",
+   "state": "MI",
+   "latitude": 43.5996857,
+   "longitude": -83.8729324
+ },
+ {
+   "street_address": "1000 block Mayflower Rd",
+   "city": "Fort Pierce",
+   "state": "FL",
+   "latitude": 27.4486504,
+   "longitude": -80.3266068
+ },
+ {
+   "street_address": "2701 Mary Ave",
+   "city": "Gastonia",
+   "state": "NC",
+   "latitude": 35.2658062,
+   "longitude": -81.2271642
+ },
+ {
+   "street_address": "600 Second Ave",
+   "city": "Salt Lake City",
+   "state": "UT",
+   "latitude": 40.7716665,
+   "longitude": -111.8714082
+ },
+ {
+   "street_address": "2225 Texas Hwy 256 Loop",
+   "city": "Palestine",
+   "state": "TX",
+   "latitude": 31.774197,
+   "longitude": -95.6519569
+ },
+ {
+   "street_address": "3271 Dartmouth Dr",
+   "city": "Charleston",
+   "state": "SC",
+   "latitude": 32.8577843,
+   "longitude": -80.0776596
+ },
+ {
+   "street_address": "US-40",
+   "city": "Craig",
+   "state": "CO",
+   "latitude": 40.5144005,
+   "longitude": -107.4890213
+ },
+ {
+   "street_address": "New York State Rte 31A",
+   "city": "Clarendon",
+   "state": "NY",
+   "latitude": 43.1940384,
+   "longitude": -78.065712
+ },
+ {
+   "street_address": "700 N Auburndale St",
+   "city": "Memphis",
+   "state": "TN",
+   "latitude": 35.1571117,
+   "longitude": -90.0000664
+ },
+ {
+   "street_address": "SE 650th Rd",
+   "city": "Green Ridge",
+   "state": "MO",
+   "latitude": 38.6578484,
+   "longitude": -93.5117188
+ },
+ {
+   "street_address": "1410 Hill Ave",
+   "city": "Napa",
+   "state": "CA",
+   "latitude": 38.306118,
+   "longitude": -122.2744522
+ },
+ {
+   "street_address": "5900 S Lewis Ave",
+   "city": "Tulsa",
+   "state": "OK",
+   "latitude": 36.0787522,
+   "longitude": -95.9580338
+ },
+ {
+   "street_address": "Juanipero Way and La Loma Dr",
+   "city": "Medford",
+   "state": "OR",
+   "latitude": 42.311009,
+   "longitude": -122.8316269
+ },
+ {
+   "street_address": "10900 E 109th Pl",
+   "city": "Northglenn",
+   "state": "CO",
+   "latitude": 39.8945198,
+   "longitude": -104.9772263
+ },
+ {
+   "street_address": "10064 Elm Grove Garden Dr",
+   "city": "Baton Rouge",
+   "state": "LA",
+   "latitude": 30.5366734,
+   "longitude": -91.1694337
+ },
+ {
+   "street_address": "Kneuman Rd",
+   "city": "Sumas",
+   "state": "WA",
+   "latitude": 49.0000114,
+   "longitude": -122.2853775
+ },
+ {
+   "street_address": "Bellefonte Dr",
+   "city": "Charlotte",
+   "state": "NC",
+   "latitude": 35.2506218,
+   "longitude": -80.8187485
+ },
+ {
+   "street_address": "11120 NW Gainesville Rd",
+   "city": "Ocala",
+   "state": "FL",
+   "latitude": 29.3102512,
+   "longitude": -82.1930542
+ },
+ {
+   "street_address": "8400 Chef Menteur Hwy",
+   "city": "New Orleans",
+   "state": "LA",
+   "latitude": 30.0135784,
+   "longitude": -89.988533
+ },
+ {
+   "street_address": "298 Gavilan Canyon Rd",
+   "city": "Rudioso",
+   "state": "NM",
+   "latitude": 33.3267975,
+   "longitude": -105.6342545
+ },
+ {
+   "street_address": "I-95",
+   "city": "Ridgefield Park",
+   "state": "NJ",
+   "latitude": 40.86306,
+   "longitude": -74.0112915
+ },
+ {
+   "street_address": "North Carolina Hwy 242 and Reeda Branch Rd",
+   "city": "Salemburg",
+   "state": "NC",
+   "latitude": 35.0643602,
+   "longitude": -78.4907397
+ },
+ {
+   "street_address": "1486 Hyde Park Rd",
+   "city": "Essex",
+   "state": "MD",
+   "latitude": 39.2983478,
+   "longitude": -76.4401614
+ },
+ {
+   "street_address": "3700 Beyer Park Dr",
+   "city": "Modesto",
+   "state": "CA",
+   "latitude": 37.6910477,
+   "longitude": -120.9706879
+ },
+ {
+   "street_address": "4604 Summit St",
+   "city": "Columbus",
+   "state": "OH",
+   "latitude": 40.059024,
+   "longitude": -82.997337
+ },
+ {
+   "street_address": "SW 29th Ave and SW 29th Terrace",
+   "city": "Fort Lauderdale",
+   "state": "FL",
+   "latitude": 26.1071098,
+   "longitude": -80.1828401
+ },
+ {
+   "street_address": "1125 1/2 19th St",
+   "city": "Bakersfield",
+   "state": "CA",
+   "latitude": 35.376175,
+   "longitude": -119.0144849
+ },
+ {
+   "street_address": "200 Elm Rd",
+   "city": "Emporia",
+   "state": "VA",
+   "latitude": 36.6105907,
+   "longitude": -77.5013888
+ },
+ {
+   "street_address": "74th Street and Merrill Ave",
+   "city": "Chicago",
+   "state": "IL",
+   "latitude": 41.7607203,
+   "longitude": -87.57246
+ },
+ {
+   "street_address": "Kentucky Rte 92",
+   "city": "Williamsburg",
+   "state": "KY",
+   "latitude": 36.7391205,
+   "longitude": -84.1332397
+ },
+ {
+   "street_address": "120 Honey Berry Ct",
+   "city": "Draper",
+   "state": "UT",
+   "latitude": 40.5398552,
+   "longitude": -111.8872467
+ },
+ {
+   "street_address": "3500 Ebenezer Rd",
+   "city": "Conyers",
+   "state": "GA",
+   "latitude": 33.5961237,
+   "longitude": -84.0463328
+ },
+ {
+   "street_address": "Waikoloa Rd",
+   "city": "Waikoloa Village",
+   "state": "HI",
+   "latitude": 19.915194,
+   "longitude": -155.831754
+ },
+ {
+   "street_address": "1600 Grass Lake Dr",
+   "city": "Tampa Bay",
+   "state": "FL",
+   "latitude": 28.1022091,
+   "longitude": -82.4886322
+ },
+ {
+   "street_address": "Dixie St",
+   "city": "Johnsonville",
+   "state": "SC",
+   "latitude": 33.8190804,
+   "longitude": -79.4618912
+ },
+ {
+   "street_address": "2400 W Tharpe St",
+   "city": "Tallahassee",
+   "state": "FL",
+   "latitude": 30.4664764,
+   "longitude": -84.3292542
+ },
+ {
+   "street_address": "265 Buffalo Ct",
+   "city": "Columbus",
+   "state": "OH",
+   "latitude": 39.879382,
+   "longitude": -82.9963372
+ },
+ {
+   "street_address": "83 Beaufain St",
+   "city": "Charleston",
+   "state": "SC",
+   "latitude": 32.7795741,
+   "longitude": -79.9380436
+ },
+ {
+   "street_address": "N Plymouth St",
+   "city": "Allentown",
+   "state": "PA",
+   "latitude": 40.632019,
+   "longitude": -75.4338379
+ },
+ {
+   "street_address": "45 Major Bell Ln",
+   "city": "Gettysburg",
+   "state": "PA",
+   "latitude": 39.8576944,
+   "longitude": -77.1596814
+ },
+ {
+   "street_address": "Newport St & E 25th Ave",
+   "city": "Denver",
+   "state": "CO",
+   "latitude": 39.7534,
+   "longitude": -104.9093599
+ },
+ {
+   "street_address": "1113 W St Mary's Rd",
+   "city": "Tuscon ",
+   "state": "AZ",
+   "latitude": 34.2929649,
+   "longitude": -111.6646957
+ },
+ {
+   "street_address": "200 John Wesly Blvd",
+   "city": "Bossier City",
+   "state": "LA",
+   "latitude": 32.5170212,
+   "longitude": -93.7078476
+ },
+ {
+   "street_address": "422 SE 3rd St",
+   "city": "England",
+   "state": "AR",
+   "latitude": 34.5426491,
+   "longitude": -91.9658922
+ },
+ {
+   "street_address": "I-35",
+   "city": "Waco",
+   "state": "TX",
+   "latitude": 31.593082,
+   "longitude": -97.108858
+ },
+ {
+   "street_address": "E Baseline Rd and S 48th St",
+   "city": "Phoenix",
+   "state": "AZ",
+   "latitude": 33.3781938,
+   "longitude": -111.978452
+ },
+ {
+   "street_address": "812 Forest Hills Dr",
+   "city": "Nashville",
+   "state": "TN",
+   "latitude": 36.0540047,
+   "longitude": -86.7787399
+ },
+ {
+   "street_address": "841 Avenue A",
+   "city": "Boulder City",
+   "state": "NV",
+   "latitude": 35.9727325,
+   "longitude": -114.8414688
+ },
+ {
+   "street_address": "3468 Casino Way",
+   "city": "Robinsonville",
+   "state": "MS",
+   "latitude": 34.8307787,
+   "longitude": -90.32121
+ },
+ {
+   "street_address": "8th St and N Orange Ave",
+   "city": "Sarasota",
+   "state": "FL",
+   "latitude": 27.3431099,
+   "longitude": -82.5386202
+ },
+ {
+   "street_address": "Billings Clinic, 2800 10th Ave N",
+   "city": "Billings",
+   "state": "MT",
+   "latitude": 45.789441,
+   "longitude": -108.5132285
+ },
+ {
+   "street_address": "Constitution Ave and San Mateo Blvd",
+   "city": "Albuquerque",
+   "state": "NM",
+   "latitude": 35.0946403,
+   "longitude": -106.5861697
+ },
+ {
+   "street_address": "500 North Oliver Ave",
+   "city": "Wichita",
+   "state": "KS",
+   "latitude": 37.6939376,
+   "longitude": -97.2804936
+ },
+ {
+   "street_address": "1200 Calimesa Blvd",
+   "city": "Calimesa",
+   "state": "CA",
+   "latitude": 33.9951673,
+   "longitude": -117.0581017
+ },
+ {
+   "street_address": "1503 Medfra St",
+   "city": "Anchorage",
+   "state": "AK",
+   "latitude": 61.2075577,
+   "longitude": -149.8582001
+ },
+ {
+   "street_address": "Greenland Park Dr",
+   "city": "Maricopa",
+   "state": "AZ",
+   "latitude": 33.0835686,
+   "longitude": -112.0429306
+ },
+ {
+   "street_address": "2569 Raber Rd",
+   "city": "Green",
+   "state": "OH",
+   "latitude": 40.9656982,
+   "longitude": -81.4294357
+ },
+ {
+   "street_address": "16802 Hillside Ave",
+   "city": "New York",
+   "state": "NY",
+   "latitude": 40.7098999,
+   "longitude": -73.7943573
+ },
+ {
+   "street_address": "4023 University Pkwy",
+   "city": "San Bernadino",
+   "state": "CA",
+   "latitude": 34.164711,
+   "longitude": -117.3321762
+ },
+ {
+   "street_address": "900 E Main St",
+   "city": "Cabot",
+   "state": "AR",
+   "latitude": 34.9675325,
+   "longitude": -92.0081317
+ },
+ {
+   "street_address": "300 E Mitchell St",
+   "city": "Arlington",
+   "state": "TX",
+   "latitude": 32.7282829,
+   "longitude": -97.1045675
+ },
+ {
+   "street_address": "Port St Joe Police Station, 410 Williams Ave",
+   "city": "Port St Joe",
+   "state": "FL",
+   "latitude": 29.812402,
+   "longitude": -85.301915
+ },
+ {
+   "street_address": "202 Avenue A",
+   "city": "Levelland",
+   "state": "TX",
+   "latitude": 33.5913373,
+   "longitude": -102.3692241
+ },
+ {
+   "street_address": "2007 Sousa Ct",
+   "city": "Fairfield",
+   "state": "CA",
+   "latitude": 38.2652893,
+   "longitude": -121.9976044
+ },
+ {
+   "street_address": "3000 W Cecil Ave",
+   "city": "Delano",
+   "state": "CA",
+   "latitude": 35.7697792,
+   "longitude": -119.3015518
+ },
+ {
+   "street_address": "1500 Plymouth Ln",
+   "city": "Green Bay",
+   "state": "WI",
+   "latitude": 44.5266283,
+   "longitude": -88.0578916
+ },
+ {
+   "street_address": "6100 Scott St",
+   "city": "Rosemont",
+   "state": "IL",
+   "latitude": 41.9897374,
+   "longitude": -87.8759104
+ },
+ {
+   "street_address": "4501 Hoffner Ave",
+   "city": "Orlando",
+   "state": "FL",
+   "latitude": 28.4805509,
+   "longitude": -81.3283666
+ },
+ {
+   "street_address": "182 N4430 Rd",
+   "city": "Rufe",
+   "state": "OK",
+   "latitude": 34.1277084,
+   "longitude": -95.156517
+ },
+ {
+   "street_address": "2853 Avalon Meadows Ct",
+   "city": "Lawrenceville",
+   "state": "GA",
+   "latitude": 33.9334145,
+   "longitude": -84.0869064
+ },
+ {
+   "street_address": "27767 Base Line",
+   "city": "Highland",
+   "state": "CA",
+   "latitude": 34.1207352,
+   "longitude": -117.198616
+ },
+ {
+   "street_address": "6600 W Christy Dr",
+   "city": "Glendale",
+   "state": "AZ",
+   "latitude": 33.5838023,
+   "longitude": -112.2006413
+ },
+ {
+   "street_address": "Tasman Dr and Lawrence Expy",
+   "city": "Sunnyvale",
+   "state": "CA",
+   "latitude": 37.4033102,
+   "longitude": -121.9956697
+ },
+ {
+   "street_address": "1400 E Harmony Ave",
+   "city": "Mesa",
+   "state": "AZ",
+   "latitude": 33.3896023,
+   "longitude": -111.8006046
+ },
+ {
+   "street_address": "2500 FM1054",
+   "city": "Tahoka",
+   "state": "TX",
+   "latitude": 33.1661153,
+   "longitude": -101.6661762
+ },
+ {
+   "street_address": "1408 W Main St",
+   "city": "Marion",
+   "state": "IL",
+   "latitude": 37.7308112,
+   "longitude": -88.9412637
+ },
+ {
+   "street_address": "Indian Rte 13",
+   "city": "Lukachukai",
+   "state": "AZ",
+   "latitude": 36.4117088,
+   "longitude": -109.25
+ },
+ {
+   "street_address": "400 White Bear Ave",
+   "city": "St Paul",
+   "state": "MN",
+   "latitude": 44.9535713,
+   "longitude": -93.0245514
+ },
+ {
+   "street_address": "225 Presidents Cup Way",
+   "city": "St Augustine",
+   "state": "FL",
+   "latitude": 29.9727812,
+   "longitude": -81.4809528
+ },
+ {
+   "street_address": "2300 Gilead Ave",
+   "city": "Zion",
+   "state": "IL",
+   "latitude": 42.4539375,
+   "longitude": -87.8439407
+ },
+ {
+   "street_address": "2661 Gravenstein Hwy S",
+   "city": "Sebastopol",
+   "state": "CA",
+   "latitude": 38.3767128,
+   "longitude": -122.7918701
+ },
+ {
+   "street_address": "325 Riverside Dr",
+   "city": "Fallsburg",
+   "state": "NY",
+   "latitude": 41.7404167,
+   "longitude": -74.5979552
+ },
+ {
+   "street_address": "138 Del Mar Cir",
+   "city": "Aurora",
+   "state": "CO",
+   "latitude": 39.7281647,
+   "longitude": -104.8446426
+ },
+ {
+   "street_address": "6735 W Peoria Ave",
+   "city": "Peoria ",
+   "state": "AZ",
+   "latitude": 33.5812721,
+   "longitude": -112.2033386
+ },
+ {
+   "street_address": "6024 Wheaton Dr",
+   "city": "Fort Worth",
+   "state": "TX",
+   "latitude": 32.6606293,
+   "longitude": -97.3954849
+ },
+ {
+   "street_address": "W Union Hills Dr and N 39th Ave",
+   "city": "Phoenix",
+   "state": "AZ",
+   "latitude": 33.6546099,
+   "longitude": -112.1431998
+ },
+ {
+   "street_address": "1800 Helena St",
+   "city": "Jacksonville",
+   "state": "FL",
+   "latitude": 30.3778403,
+   "longitude": -81.6836172
+ },
+ {
+   "street_address": "NA",
+   "city": "Guthrie",
+   "state": "OK",
+   "latitude": 35.8801193,
+   "longitude": -97.4228592
+ },
+ {
+   "street_address": "E Knox Rd",
+   "city": "Chandler",
+   "state": "AZ",
+   "latitude": 33.3269806,
+   "longitude": -111.8252487
+ },
+ {
+   "street_address": "900 Bankhead Hwy",
+   "city": "Carrollton",
+   "state": "GA",
+   "latitude": 33.5906563,
+   "longitude": -85.0489044
+ },
+ {
+   "street_address": "645 Smyrna Center Rd",
+   "city": "Smyrna",
+   "state": "ME",
+   "latitude": 46.1598784,
+   "longitude": -68.1000068
+ },
+ {
+   "street_address": "30 Malvern Ln",
+   "city": "Smyrna",
+   "state": "DE",
+   "latitude": 39.2800324,
+   "longitude": -75.6028052
+ },
+ {
+   "street_address": "1800 Heather Cir",
+   "city": "Indianapolis",
+   "state": "IN",
+   "latitude": 39.7927158,
+   "longitude": -85.9919228
+ },
+ {
+   "street_address": "355 Valley Brook Ave",
+   "city": "Lyndhurst",
+   "state": "NJ",
+   "latitude": 40.8121343,
+   "longitude": -74.1246445
+ },
+ {
+   "street_address": "210 W 300 N",
+   "city": "Roosevelt",
+   "state": "UT",
+   "latitude": 40.3023154,
+   "longitude": -109.9969961
+ },
+ {
+   "street_address": "107 White Falls Dr",
+   "city": "Columbia",
+   "state": "SC",
+   "latitude": 34.0728226,
+   "longitude": -81.1996384
+ },
+ {
+   "street_address": "Longview Police Department, 302 W Cotton St",
+   "city": "Longview",
+   "state": "TX",
+   "latitude": 32.49541,
+   "longitude": -94.746094
+ },
+ {
+   "street_address": "2800 Longmeadow Dr",
+   "city": "Trenton",
+   "state": "MI",
+   "latitude": 42.1408048,
+   "longitude": -83.2159779
+ },
+ {
+   "street_address": "200 Jordan Dr",
+   "city": "Nocona",
+   "state": "TX",
+   "latitude": 33.78727,
+   "longitude": -97.7127638
+ },
+ {
+   "street_address": "Corrections Department, 1400 E 4th Ave",
+   "city": "Anchorage",
+   "state": "AK",
+   "latitude": 61.218408,
+   "longitude": -149.858016
+ },
+ {
+   "street_address": "19157 NW 3rd Ave",
+   "city": "Miami Gardens",
+   "state": "FL",
+   "latitude": 25.9503192,
+   "longitude": -80.2074225
+ },
+ {
+   "street_address": "Minnesota Ave and Meramec St",
+   "city": "St Louis",
+   "state": "MO",
+   "latitude": 38.5800999,
+   "longitude": -90.2375297
+ },
+ {
+   "street_address": "Redlyn St",
+   "city": "Pittsburgh",
+   "state": "PA",
+   "latitude": 40.413045,
+   "longitude": -79.991463
+ },
+ {
+   "street_address": "85 Almost Home Rd",
+   "city": "Penrose",
+   "state": "NC",
+   "latitude": 35.2702599,
+   "longitude": -82.6380997
+ },
+ {
+   "street_address": "4505 SW Masters Loop",
+   "city": "Aloha",
+   "state": "OR",
+   "latitude": 45.4866905,
+   "longitude": -122.8912506
+ },
+ {
+   "street_address": "950 Nalley Rd",
+   "city": "Landover",
+   "state": "MD",
+   "latitude": 38.9048424,
+   "longitude": -76.8766708
+ },
+ {
+   "street_address": "3618 White Buffalo Rd",
+   "city": "Huntley",
+   "state": "MT",
+   "latitude": 45.8630638,
+   "longitude": -108.3131864
+ },
+ {
+   "street_address": "N Addison St and E Sanson Ave",
+   "city": "Spokane",
+   "state": "WA",
+   "latitude": 47.7065501,
+   "longitude": -117.4032799
+ },
+ {
+   "street_address": "New York State Rte 23 and Cairo Junction Rd",
+   "city": "Catskill",
+   "state": "NY",
+   "latitude": 42.262431,
+   "longitude": -73.9357393
+ },
+ {
+   "street_address": "4100 Eldorado Springs Dr",
+   "city": "Boulder",
+   "state": "CO",
+   "latitude": 39.9386327,
+   "longitude": -105.2570694
+ },
+ {
+   "street_address": "1624 Hood Franklin Rd",
+   "city": "Elk Grove",
+   "state": "CA",
+   "latitude": 38.3685913,
+   "longitude": -121.4939194
+ },
+ {
+   "street_address": "3400 Manitou Ave",
+   "city": "Los Angeles",
+   "state": "CA",
+   "latitude": 34.0717621,
+   "longitude": -118.2049866
+ },
+ {
+   "street_address": "E 31st St and N Sherman Dr",
+   "city": "Indianapolis",
+   "state": "IN",
+   "latitude": 39.8115999,
+   "longitude": -86.1025699
+ },
+ {
+   "street_address": "261 E University Ave",
+   "city": "St Paul",
+   "state": "MN",
+   "latitude": 44.9580421,
+   "longitude": -93.0942535
+ },
+ {
+   "street_address": "3057 Martin Ave",
+   "city": "Omaha",
+   "state": "NE",
+   "latitude": 41.3234673,
+   "longitude": -95.9593735
+ },
+ {
+   "street_address": "Sir Gawaine Dr",
+   "city": "Chesapeake",
+   "state": "VA",
+   "latitude": 36.781304,
+   "longitude": -76.347865
+ },
+ {
+   "street_address": "Hitt St and Elm St",
+   "city": "Columbia",
+   "state": "MO",
+   "latitude": 38.9484698,
+   "longitude": -92.3255698
+ },
+ {
+   "street_address": "1940 Turner Rd SE",
+   "city": "Salemburg",
+   "state": "OR",
+   "latitude": 44.913921,
+   "longitude": -122.996177
+ },
+ {
+   "street_address": "1806 16th Ave",
+   "city": "Rockford",
+   "state": "IL",
+   "latitude": 42.2503929,
+   "longitude": -89.0685043
+ },
+ {
+   "street_address": "W 141st St and 257th W Ave",
+   "city": "Kellyville",
+   "state": "OK",
+   "latitude": 35.9593201,
+   "longitude": -96.2797198
+ },
+ {
+   "street_address": "3800 Vernon Ave",
+   "city": "Memphis",
+   "state": "TN",
+   "latitude": 35.1648337,
+   "longitude": -89.9334182
+ },
+ {
+   "street_address": "600 NW 27th Ave",
+   "city": "Fort Lauderdale",
+   "state": "FL",
+   "latitude": 26.1292725,
+   "longitude": -80.1778488
+ },
+ {
+   "street_address": "Martinique Ct",
+   "city": "Stockton",
+   "state": "CA",
+   "latitude": 38.02911,
+   "longitude": -121.3156891
+ },
+ {
+   "street_address": "1050 Carl Griffin Dr",
+   "city": "Savannah",
+   "state": "GA",
+   "latitude": 32.0666924,
+   "longitude": -81.1678772
+ },
+ {
+   "street_address": "2420 Terry Rd",
+   "city": "Huntingdon",
+   "state": "TN",
+   "latitude": 35.9514389,
+   "longitude": -88.5734558
+ },
+ {
+   "street_address": "2010 61st St",
+   "city": "Sacramento",
+   "state": "CA",
+   "latitude": 38.5515137,
+   "longitude": -121.4342575
+ },
+ {
+   "street_address": "630 Valencia St",
+   "city": "San Francisco",
+   "state": "CA",
+   "latitude": 37.7628479,
+   "longitude": -122.4220047
+ },
+ {
+   "street_address": "3800 Canfield Rd",
+   "city": "Eaton Rapids Township",
+   "state": "MI",
+   "latitude": 42.5121727,
+   "longitude": -84.7003385
+ },
+ {
+   "street_address": "College Ave and Curry Rd",
+   "city": "Tempe",
+   "state": "AZ",
+   "latitude": 33.4402203,
+   "longitude": -111.9308198
+ },
+ {
+   "street_address": "500 W Vineyard Ave",
+   "city": "Oxnard",
+   "state": "CA",
+   "latitude": 34.2278137,
+   "longitude": -119.1828842
+ },
+ {
+   "street_address": "Doctors Row",
+   "city": "Chavies",
+   "state": "KY",
+   "latitude": 37.3803482,
+   "longitude": -83.2437286
+ },
+ {
+   "street_address": "Malad St and Gourley St",
+   "city": "Boise",
+   "state": "ID",
+   "latitude": 43.5789295,
+   "longitude": -116.2223222
+ },
+ {
+   "street_address": "105 Hinkle St",
+   "city": "Wilmore",
+   "state": "KY",
+   "latitude": 37.8669354,
+   "longitude": -84.6608786
+ },
+ {
+   "street_address": "100 Whitfield St",
+   "city": "Enfield",
+   "state": "NC",
+   "latitude": 36.1811831,
+   "longitude": -77.6669817
+ },
+ {
+   "street_address": "600 Spring Dr",
+   "city": "Robertsville",
+   "state": "MO",
+   "latitude": 38.3187816,
+   "longitude": -90.7944026
+ },
+ {
+   "street_address": "1400 N Marion Ave",
+   "city": "Springfield",
+   "state": "MO",
+   "latitude": 37.2242855,
+   "longitude": -93.3193785
+ },
+ {
+   "street_address": "2600 Kaumualii Hwy",
+   "city": "Kaumakani",
+   "state": "HI",
+   "latitude": 21.9338608,
+   "longitude": -159.6427002
+ },
+ {
+   "street_address": "11936 California Rte 178",
+   "city": "Lake Isabella",
+   "state": "CA",
+   "latitude": 35.6425591,
+   "longitude": -118.4136963
+ },
+ {
+   "street_address": "1534 N Center Ave",
+   "city": "Somerset",
+   "state": "PA",
+   "latitude": 40.035759,
+   "longitude": -79.0743942
+ },
+ {
+   "street_address": "Northtowne Plaza Shopping Center",
+   "city": "Claymount",
+   "state": "DE",
+   "latitude": 39.8179254,
+   "longitude": -75.4563524
+ },
+ {
+   "street_address": "I-84",
+   "city": "Beacon",
+   "state": "NY",
+   "latitude": 41.517724,
+   "longitude": -73.979344
+ },
+ {
+   "street_address": "818 31st St",
+   "city": "Evans",
+   "state": "CO",
+   "latitude": 40.3840446,
+   "longitude": -104.6920242
+ },
+ {
+   "street_address": "4817 W Mceachern Woods Dr",
+   "city": "Powder Springs",
+   "state": "GA",
+   "latitude": 33.9112854,
+   "longitude": -84.6947861
+ },
+ {
+   "street_address": "Chape�_�o Rd",
+   "city": "Roma",
+   "state": "TX",
+   "latitude": 26.5522499,
+   "longitude": -99.1332092
+ },
+ {
+   "street_address": "17500 Tester Rd ",
+   "city": "Snohomish",
+   "state": "WA",
+   "latitude": 47.8377751,
+   "longitude": -122.0135761
+ },
+ {
+   "street_address": "900 S Euclid St",
+   "city": "Anaheim",
+   "state": "CA",
+   "latitude": 33.8200747,
+   "longitude": -117.941376
+ },
+ {
+   "street_address": "707 W 13th St",
+   "city": "Vancouver",
+   "state": "WA",
+   "latitude": 45.6310601,
+   "longitude": -122.678255
+ },
+ {
+   "street_address": "4999 Naaman Forest Blvd",
+   "city": "Garland",
+   "state": "TX",
+   "latitude": 32.9599406,
+   "longitude": -96.6389561
+ },
+ {
+   "street_address": "16200 E 12th Ave",
+   "city": "Aurora",
+   "state": "CO",
+   "latitude": 39.7354916,
+   "longitude": -104.7992847
+ },
+ {
+   "street_address": "Fairfax County Adult Detention Center, 10520 Judicial Dr",
+   "city": "Fairfax",
+   "state": "VA",
+   "latitude": 38.84399,
+   "longitude": -77.311132
+ },
+ {
+   "street_address": "Becky Sue St",
+   "city": "Ville Platte",
+   "state": "LA",
+   "latitude": 30.751305,
+   "longitude": -92.437994
+ },
+ {
+   "street_address": "Hectorville Rd and Bixby Rd",
+   "city": "Mounds",
+   "state": "OK",
+   "latitude": 35.84183,
+   "longitude": -95.8906098
+ },
+ {
+   "street_address": "N Main St",
+   "city": "Webster",
+   "state": "MA",
+   "latitude": 42.0585899,
+   "longitude": -71.8781281
+ },
+ {
+   "street_address": "17200 Pires Ave",
+   "city": "Cerritos",
+   "state": "CA",
+   "latitude": 33.8749829,
+   "longitude": -118.0503535
+ },
+ {
+   "street_address": "SE 4th St and Scott Ave",
+   "city": "Des Moines",
+   "state": "IA",
+   "latitude": 41.5810397,
+   "longitude": -93.609646
+ },
+ {
+   "street_address": "2475 Cumberland Pkwy SE",
+   "city": "Atlanta",
+   "state": "GA",
+   "latitude": 33.86441,
+   "longitude": -84.477958
+ },
+ {
+   "street_address": "4130 N Black Canyon Hwy",
+   "city": "Phoenix",
+   "state": "AZ",
+   "latitude": 33.4962463,
+   "longitude": -112.1153488
+ },
+ {
+   "street_address": "N Garner Lake Rd and Vaquero Ave",
+   "city": "Gillette",
+   "state": "WY",
+   "latitude": 44.3019303,
+   "longitude": -105.4499397
+ },
+ {
+   "street_address": "4800 Legend Well Dr",
+   "city": "San Antonio",
+   "state": "TX",
+   "latitude": 29.5922401,
+   "longitude": -98.4028975
+ },
+ {
+   "street_address": "I-95",
+   "city": "Ridgefield Park",
+   "state": "NJ",
+   "latitude": 40.86306,
+   "longitude": -74.0112915
+ },
+ {
+   "street_address": "Lasalle St and Josephine St",
+   "city": "New Orleans",
+   "state": "LA",
+   "latitude": 29.9412498,
+   "longitude": -90.0852399
+ },
+ {
+   "street_address": "Troy Ave and Oakshire Ln",
+   "city": "Pueblo",
+   "state": "CO",
+   "latitude": 38.2854206,
+   "longitude": -104.573478
+ },
+ {
+   "street_address": "E 6th St and Mateo St",
+   "city": "Los Angeles",
+   "state": "CA",
+   "latitude": 34.0383897,
+   "longitude": -118.2327244
+ },
+ {
+   "street_address": "800 Howard St",
+   "city": "Stockton",
+   "state": "CA",
+   "latitude": 37.9297473,
+   "longitude": -121.2981304
+ },
+ {
+   "street_address": "150 E Lincoln Ave",
+   "city": "Anaheim",
+   "state": "CA",
+   "latitude": 33.8366709,
+   "longitude": -117.9137003
+ },
+ {
+   "street_address": "69 Prospect Hill Dr",
+   "city": "Weymouth",
+   "state": "MA",
+   "latitude": 42.2566948,
+   "longitude": -70.9316177
+ },
+ {
+   "street_address": "7100 Pine Ave",
+   "city": "Chino",
+   "state": "CA",
+   "latitude": 33.9534248,
+   "longitude": -117.6501793
+ },
+ {
+   "street_address": "US-90 and Charles Dr",
+   "city": "Del Rio",
+   "state": "TX",
+   "latitude": 29.3685202,
+   "longitude": -100.8305995
+ },
+ {
+   "street_address": "904 Admiral Callaghan Ln",
+   "city": "Vallejo",
+   "state": "CA",
+   "latitude": 38.1320534,
+   "longitude": -122.2226868
+ },
+ {
+   "street_address": "477 Belcher Rd",
+   "city": "Boiling Springs",
+   "state": "SC",
+   "latitude": 35.022747,
+   "longitude": -82.0061417
+ },
+ {
+   "street_address": "12810 Gulf Fwy",
+   "city": "Houston",
+   "state": "TX",
+   "latitude": 29.6131928,
+   "longitude": -95.2134526
+ },
+ {
+   "street_address": "1300 Sherman St",
+   "city": "San Jose",
+   "state": "CA",
+   "latitude": 37.316599,
+   "longitude": -121.8759895
+ },
+ {
+   "street_address": "118 W Grape St",
+   "city": "Vineland",
+   "state": "NJ",
+   "latitude": 39.4848213,
+   "longitude": -75.0345688
+ },
+ {
+   "street_address": "Nesbitt Ave S and 99th St W",
+   "city": "Bloomington",
+   "state": "MN",
+   "latitude": 44.8254901,
+   "longitude": -93.35841
+ },
+ {
+   "street_address": "604 E Maple Ave",
+   "city": "Stillwater",
+   "state": "OK",
+   "latitude": 36.1211052,
+   "longitude": -97.0501251
+ },
+ {
+   "street_address": "1225 Quindaro Blvd",
+   "city": "Kansas City",
+   "state": "KS",
+   "latitude": 39.1362457,
+   "longitude": -94.6423798
+ },
+ {
+   "street_address": "4401 Xylon Ave N",
+   "city": "Minneapolis",
+   "state": "MN",
+   "latitude": 45.035038,
+   "longitude": -93.3867416
+ },
+ {
+   "street_address": "200 North Retta St",
+   "city": "Fort Worth",
+   "state": "TX",
+   "latitude": 32.7670361,
+   "longitude": -97.3038536
+ },
+ {
+   "street_address": "Sleepy Hollow Dr and Misty Glen Dr",
+   "city": "Newalla",
+   "state": "OK",
+   "latitude": 35.3752202,
+   "longitude": -97.1720599
+ },
+ {
+   "street_address": "414 Rehr St",
+   "city": "Reading",
+   "state": "PA",
+   "latitude": 40.3287582,
+   "longitude": -75.9080353
+ },
+ {
+   "street_address": "2615 Mossrock",
+   "city": "San Antonio",
+   "state": "TX",
+   "latitude": 29.5134506,
+   "longitude": -98.53582
+ },
+ {
+   "street_address": "Tremont St and Morgan St",
+   "city": "Rochester",
+   "state": "NY",
+   "latitude": 43.1478502,
+   "longitude": -77.6309502
+ },
+ {
+   "street_address": "400 Steuber Rd",
+   "city": "Tehachapi",
+   "state": "CA",
+   "latitude": 35.1274796,
+   "longitude": -118.4139481
+ },
+ {
+   "street_address": "600 Olive St",
+   "city": "Jourdanton",
+   "state": "TX",
+   "latitude": 28.91159,
+   "longitude": -98.5429517
+ },
+ {
+   "street_address": "SW Wanamaker Rd and I-70",
+   "city": "Topeka",
+   "state": "KS",
+   "latitude": 39.0536007,
+   "longitude": -95.7618132
+ },
+ {
+   "street_address": "Louis Armstrong New Orleans International Airport, 900 Airline Dr",
+   "city": "Kenner",
+   "state": "LA",
+   "latitude": 29.9859313,
+   "longitude": -90.2577119
+ },
+ {
+   "street_address": "NA",
+   "city": "Fort Meade",
+   "state": "MD",
+   "latitude": 39.1066513,
+   "longitude": -76.7348022
+ },
+ {
+   "street_address": "3320 W 9th Ave",
+   "city": "Kennewick",
+   "state": "WA",
+   "latitude": 46.2013702,
+   "longitude": -119.1680069
+ },
+ {
+   "street_address": "108 Fir Canyon Rd",
+   "city": "Grants Pass",
+   "state": "OR",
+   "latitude": 42.3600731,
+   "longitude": -123.4464111
+ },
+ {
+   "street_address": "200 Trask St",
+   "city": "Bakersfield",
+   "state": "CA",
+   "latitude": 35.3536224,
+   "longitude": -119.3315506
+ },
+ {
+   "street_address": "500 Sycamore St",
+   "city": "Lake Jackson",
+   "state": "TX",
+   "latitude": 29.0344224,
+   "longitude": -95.4281493
+ },
+ {
+   "street_address": "120 W Slaughter Ln",
+   "city": "Austin",
+   "state": "TX",
+   "latitude": 30.1676178,
+   "longitude": -97.7891617
+ },
+ {
+   "street_address": "1847 Bob White Blvd",
+   "city": "Pulaski",
+   "state": "VA",
+   "latitude": 37.0585149,
+   "longitude": -80.7449909
+ },
+ {
+   "street_address": "175 Bass Pro Blvd",
+   "city": "Denham Springs",
+   "state": "LA",
+   "latitude": 30.4504135,
+   "longitude": -90.9602784
+ },
+ {
+   "street_address": "Fields Hollow Rd",
+   "city": "Peebles",
+   "state": "OH",
+   "latitude": 39.083271,
+   "longitude": -83.2555466
+ },
+ {
+   "street_address": "14200 Kornblum Ave",
+   "city": "Hawthorne",
+   "state": "CA",
+   "latitude": 33.9017922,
+   "longitude": -118.3373257
+ },
+ {
+   "street_address": "Elkhorn Blvd and Dry Creek Rd",
+   "city": "Rio Linda",
+   "state": "CA",
+   "latitude": 38.6837699,
+   "longitude": -121.4383999
+ },
+ {
+   "street_address": "39 N Marlin Ave",
+   "city": "Key Largo",
+   "state": "FL",
+   "latitude": 25.1559029,
+   "longitude": -80.3902588
+ },
+ {
+   "street_address": "4th St and Mathews St",
+   "city": "Los Angeles",
+   "state": "CA",
+   "latitude": 34.0401299,
+   "longitude": -118.2106698
+ },
+ {
+   "street_address": "US-49 and Middle Driveway",
+   "city": "Gulfport",
+   "state": "MS",
+   "latitude": 30.4247537,
+   "longitude": -89.0925243
+ },
+ {
+   "street_address": "W 11th St",
+   "city": "Tulsa",
+   "state": "OK",
+   "latitude": 36.1459389,
+   "longitude": -95.9928436
+ },
+ {
+   "street_address": "West Lerdo Hwy and South Wall St",
+   "city": "Shafter",
+   "state": "CA",
+   "latitude": 35.4998598,
+   "longitude": -119.28055
+ },
+ {
+   "street_address": "300 Yaupon St",
+   "city": "Freeport",
+   "state": "TX",
+   "latitude": 28.9552215,
+   "longitude": -95.3685641
+ },
+ {
+   "street_address": "15746 Union Ave",
+   "city": "Harvey",
+   "state": "IL",
+   "latitude": 41.6037641,
+   "longitude": -87.6340616
+ },
+ {
+   "street_address": "Gale St",
+   "city": "Laredo",
+   "state": "TX",
+   "latitude": 27.554155,
+   "longitude": -99.478091
+ },
+ {
+   "street_address": "2500 Texas Hwy 121",
+   "city": "Euless",
+   "state": "TX",
+   "latitude": 32.8722464,
+   "longitude": -97.0993902
+ },
+ {
+   "street_address": "1016 N 4th Ave",
+   "city": "Pasco",
+   "state": "WA",
+   "latitude": 46.2375755,
+   "longitude": -119.0959167
+ },
+ {
+   "street_address": "2241 Lucille Ave",
+   "city": "Kingman",
+   "state": "AZ",
+   "latitude": 35.2040901,
+   "longitude": -114.0249939
+ },
+ {
+   "street_address": "184 W 3rd St",
+   "city": "Pomona",
+   "state": "CA",
+   "latitude": 34.056838,
+   "longitude": -117.7509385
+ },
+ {
+   "street_address": "Circle K, 1301 N Eastern Ave",
+   "city": "Las Vegas",
+   "state": "NV",
+   "latitude": 36.18512,
+   "longitude": -115.116428
+ },
+ {
+   "street_address": "E Baseline Rd and S 48th St",
+   "city": "Phoenix",
+   "state": "AZ",
+   "latitude": 33.3781938,
+   "longitude": -111.978452
+ },
+ {
+   "street_address": "University Ave NE and I-694",
+   "city": "Fridley",
+   "state": "MN",
+   "latitude": 45.0686548,
+   "longitude": -93.2634647
+ },
+ {
+   "street_address": "NA",
+   "city": "Mission",
+   "state": "TX",
+   "latitude": 26.2153301,
+   "longitude": -98.3257904
+ },
+ {
+   "street_address": "Texas Hwy 71 and Silvermine Dr",
+   "city": "Austin",
+   "state": "TX",
+   "latitude": 30.2470483,
+   "longitude": -97.8883914
+ },
+ {
+   "street_address": "2600 Senter Rd",
+   "city": "San Jose",
+   "state": "CA",
+   "latitude": 37.3052139,
+   "longitude": -121.8414917
+ },
+ {
+   "street_address": "33 Bayside Pkwy",
+   "city": "Middletown",
+   "state": "NJ",
+   "latitude": 40.4439697,
+   "longitude": -74.1128845
+ },
+ {
+   "street_address": "6095 Anna's Ln",
+   "city": "Portage",
+   "state": "MI",
+   "latitude": 42.2294236,
+   "longitude": -85.640723
+ },
+ {
+   "street_address": "N Pass Ave and W National Ave",
+   "city": "Burbank",
+   "state": "CA",
+   "latitude": 34.1510618,
+   "longitude": -118.3435524
+ },
+ {
+   "street_address": "1040 County Rd 249",
+   "city": "Moulton",
+   "state": "AL",
+   "latitude": 34.5668413,
+   "longitude": -87.2866505
+ },
+ {
+   "street_address": "Richards St",
+   "city": "Joliet",
+   "state": "IL",
+   "latitude": 41.525211,
+   "longitude": -88.074195
+ },
+ {
+   "street_address": "59705 E Bidegain Pl",
+   "city": "Kearny",
+   "state": "AZ",
+   "latitude": 33.0784683,
+   "longitude": -110.9232864
+ },
+ {
+   "street_address": "110 Nottinghill Ln",
+   "city": "Hamilton Township",
+   "state": "NJ",
+   "latitude": 40.216132,
+   "longitude": -74.7106603
+ },
+ {
+   "street_address": "364 S King St",
+   "city": "Honolulu",
+   "state": "HI",
+   "latitude": 21.3065129,
+   "longitude": -157.8598659
+ },
+ {
+   "street_address": "3600 Emmanuel Way",
+   "city": "Alpine",
+   "state": "CA",
+   "latitude": 32.750515,
+   "longitude": -116.7029652
+ },
+ {
+   "street_address": "5900 Xerxes Ave N",
+   "city": "Minneapolis",
+   "state": "MN",
+   "latitude": 45.0622444,
+   "longitude": -93.3187485
+ },
+ {
+   "street_address": "2200 Green Springs Hwy",
+   "city": "Birmingham",
+   "state": "AL",
+   "latitude": 33.4814291,
+   "longitude": -86.8241706
+ },
+ {
+   "street_address": "3120 East Main St",
+   "city": "Ca�_�on City",
+   "state": "CO",
+   "latitude": 38.4461021,
+   "longitude": -105.1917953
+ },
+ {
+   "street_address": "I-10",
+   "city": "La Paz County",
+   "state": "AZ",
+   "latitude": 32.230201,
+   "longitude": -110.982089
+ },
+ {
+   "street_address": "3420 S Proctor St",
+   "city": "Tacoma",
+   "state": "WA",
+   "latitude": 47.2285385,
+   "longitude": -122.4888763
+ },
+ {
+   "street_address": "Old Hwy 19 SE",
+   "city": "Meridian",
+   "state": "MS",
+   "latitude": 32.3308716,
+   "longitude": -88.5660095
+ },
+ {
+   "street_address": "760 W Johnson St",
+   "city": "Fond du Lac",
+   "state": "WI",
+   "latitude": 43.7826881,
+   "longitude": -88.4753418
+ },
+ {
+   "street_address": "40 Cedar Grove Pl",
+   "city": "Old Bridge Township",
+   "state": "NJ",
+   "latitude": 40.4052734,
+   "longitude": -74.3010178
+ },
+ {
+   "street_address": "Old Agency Baptist Church",
+   "city": "Muskogee",
+   "state": "OK",
+   "latitude": 35.766201,
+   "longitude": -95.3946991
+ },
+ {
+   "street_address": "9500 Evergreen Rd",
+   "city": "Detroit",
+   "state": "MI",
+   "latitude": 42.3648081,
+   "longitude": -83.2359631
+ },
+ {
+   "street_address": "280 N Main St",
+   "city": "Mansfield",
+   "state": "OH",
+   "latitude": 40.766098,
+   "longitude": -82.5142975
+ },
+ {
+   "street_address": "Augustine Herman Hwy & E Lewis Shore Rd",
+   "city": "Elkton",
+   "state": "MD",
+   "latitude": 39.5735002,
+   "longitude": -75.8158102
+ },
+ {
+   "street_address": "951 West 36th St N",
+   "city": "Tulsa",
+   "state": "OK",
+   "latitude": 36.2059747,
+   "longitude": -96.0020301
+ },
+ {
+   "street_address": "800 NW 75th St",
+   "city": "Miami",
+   "state": "FL",
+   "latitude": 25.8430748,
+   "longitude": -80.2112122
+ },
+ {
+   "street_address": "9200 Riverwood Dr",
+   "city": "Jennings",
+   "state": "MO",
+   "latitude": 38.7234116,
+   "longitude": -90.2447968
+ },
+ {
+   "street_address": "6902 Ottawa Rd",
+   "city": "Cleveland",
+   "state": "OH",
+   "latitude": 41.4501534,
+   "longitude": -81.6409378
+ },
+ {
+   "street_address": "Morton Ave and Chatham Ave",
+   "city": "St Louis",
+   "state": "MO",
+   "latitude": 38.6732101,
+   "longitude": -90.2913402
+ },
+ {
+   "street_address": "2964 W 2125 S",
+   "city": "Syracuse",
+   "state": "UT",
+   "latitude": 41.0832634,
+   "longitude": -112.0831375
+ },
+ {
+   "street_address": "10400 Enloe St",
+   "city": "South El Monte",
+   "state": "CA",
+   "latitude": 34.0536053,
+   "longitude": -118.0453592
+ },
+ {
+   "street_address": "I-10",
+   "city": "Sierra Blanca",
+   "state": "TX",
+   "latitude": 31.172832,
+   "longitude": -105.357927
+ },
+ {
+   "street_address": "1702 S 50th St",
+   "city": "Omaha",
+   "state": "NE",
+   "latitude": 41.2427368,
+   "longitude": -95.9904175
+ },
+ {
+   "street_address": "600 E Island Lake Dr",
+   "city": "Shelton",
+   "state": "WA",
+   "latitude": 47.2465324,
+   "longitude": -123.1194992
+ },
+ {
+   "street_address": "111 Otero Dr",
+   "city": "Ruidoso",
+   "state": "NM",
+   "latitude": 33.3575249,
+   "longitude": -105.6732559
+ },
+ {
+   "street_address": "40200 Clark Dr",
+   "city": "Hemet",
+   "state": "CA",
+   "latitude": 33.7417183,
+   "longitude": -116.9542389
+ },
+ {
+   "street_address": "1505 E Main St",
+   "city": "Trinidad",
+   "state": "CO",
+   "latitude": 37.1747471,
+   "longitude": -104.4915234
+ },
+ {
+   "street_address": "224 Circle Dr",
+   "city": "Arcola",
+   "state": "IL",
+   "latitude": 39.691962,
+   "longitude": -88.3028705
+ },
+ {
+   "street_address": "1125 Williamson St",
+   "city": "Madison",
+   "state": "WI",
+   "latitude": 43.0824051,
+   "longitude": -89.3650055
+ },
+ {
+   "street_address": "Lamar St and Whitworth St",
+   "city": "Sulphur Springs",
+   "state": "TX",
+   "latitude": 33.1287286,
+   "longitude": -95.5938203
+ },
+ {
+   "street_address": "McEwien Swamp Rd",
+   "city": "Ruth",
+   "state": "MS",
+   "latitude": 31.3249302,
+   "longitude": -90.3153381
+ },
+ {
+   "street_address": "Oklahoma Hwy 48 and E1750 Rd",
+   "city": "Wapanucka",
+   "state": "OK",
+   "latitude": 34.476518,
+   "longitude": -96.4245157
+ },
+ {
+   "street_address": "E 100 N",
+   "city": "Rigby",
+   "state": "ID",
+   "latitude": 43.6411095,
+   "longitude": -111.7173996
+ },
+ {
+   "street_address": "468 E Plainfield Ave",
+   "city": "Milwaukee",
+   "state": "WI",
+   "latitude": 42.9687729,
+   "longitude": -87.9034882
+ },
+ {
+   "street_address": "27th St and Fletcher Ave",
+   "city": "Lincoln",
+   "state": "NE",
+   "latitude": 40.8747297,
+   "longitude": -96.6818701
+ },
+ {
+   "street_address": "Co Rd 2718",
+   "city": "Mabank",
+   "state": "TX",
+   "latitude": 32.4071388,
+   "longitude": -96.0738907
+ },
+ {
+   "street_address": "6505 Shirley Ave",
+   "city": "Austin",
+   "state": "TX",
+   "latitude": 32.4071388,
+   "longitude": -96.0738907
+ },
+ {
+   "street_address": "271 Greece Ridge Center Dr",
+   "city": "Rochester",
+   "state": "NY",
+   "latitude": 32.4071388,
+   "longitude": -96.0738907
+ },
+ {
+   "street_address": "West Little York Rd",
+   "city": "Houston",
+   "state": "TX",
+   "latitude": 29.865415,
+   "longitude": -95.524052
+ },
+ {
+   "street_address": "10200 S Vermont Ave",
+   "city": "Los Angeles",
+   "state": "CA",
+   "latitude": 33.9436035,
+   "longitude": -118.2912674
+ },
+ {
+   "street_address": "N Little Tor Rd",
+   "city": "New City",
+   "state": "NY",
+   "latitude": 41.1689186,
+   "longitude": -74.0044327
+ },
+ {
+   "street_address": "19 Colin Drive S",
+   "city": "Portsmouth",
+   "state": "VA",
+   "latitude": 36.8185692,
+   "longitude": -76.3703384
+ },
+ {
+   "street_address": "1945 Remount Rd",
+   "city": "North Charleston",
+   "state": "SC",
+   "latitude": 32.8991127,
+   "longitude": -80.0138016
+ },
+ {
+   "street_address": "4800 Hildring Dr E",
+   "city": "Forth Worth",
+   "state": "TX",
+   "latitude": 32.6786003,
+   "longitude": -97.3807373
+ },
+ {
+   "street_address": "US-287",
+   "city": "Electra",
+   "state": "TX",
+   "latitude": 34.044584,
+   "longitude": -98.931198
+ },
+ {
+   "street_address": "700 Valley St",
+   "city": "Hoover",
+   "state": "AL",
+   "latitude": 33.4149311,
+   "longitude": -86.8515567
+ },
+ {
+   "street_address": "335 New Brooklyn Rd",
+   "city": "Berlin",
+   "state": "NJ",
+   "latitude": 39.7491188,
+   "longitude": -74.929306
+ },
+ {
+   "street_address": "1098 Frederick Blvd",
+   "city": "Portsmouth",
+   "state": "VA",
+   "latitude": 36.8290138,
+   "longitude": -76.3414383
+ },
+ {
+   "street_address": "Bureau of Indian Affairs Rd 66",
+   "city": "Tonasket",
+   "state": "WA",
+   "latitude": 48.7085419,
+   "longitude": -119.4368286
+ },
+ {
+   "street_address": "130 Wedowee Ln",
+   "city": "Gaston",
+   "state": "NC",
+   "latitude": 35.205776,
+   "longitude": -81.240669
+ },
+ {
+   "street_address": "3800 Hollis St",
+   "city": "Oakland",
+   "state": "CA",
+   "latitude": 37.8271294,
+   "longitude": -122.2844925
+ },
+ {
+   "street_address": "Lake Arrowhead Ave and Great Salt Lake Dr",
+   "city": "Fremont",
+   "state": "CA",
+   "latitude": 37.5864713,
+   "longitude": -122.0600103
+ }
+]

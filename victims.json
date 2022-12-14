@@ -1,0 +1,3738 @@
+[
+ {
+   "name": "A'donte Washington",
+   "age": "16",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Aaron Rutledge",
+   "age": "27",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Aaron Siler",
+   "age": "26",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Aaron Valdez",
+   "age": "25",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Hispanic/Latino"
+   }
+},
+ {
+   "name": "Adam Jovicic",
+   "age": "29",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Adam Reinhart",
+   "age": "29",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Adrian Hernandez",
+   "age": "22",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Hispanic/Latino"
+   }
+},
+ {
+   "name": "Adrian Solis",
+   "age": "35",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Hispanic/Latino"
+   }
+},
+ {
+   "name": "Alan Alverson",
+   "age": "44",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Alan James",
+   "age": "31",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Albert Hanson Jr",
+   "age": "76",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Alec Ouzounian",
+   "age": "40",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Alejandro Salazar",
+   "age": "Unknown",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Hispanic/Latino"
+   }
+},
+ {
+   "name": "Alexander Long",
+   "age": "31",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Alexander Myers",
+   "age": "23",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Alexander Rivera",
+   "age": "39",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Hispanic/Latino"
+   }
+},
+ {
+   "name": "Alexia Christian",
+   "age": "25",
+   "gender": "Female",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Alfredo Rials-Torres",
+   "age": "54",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Hispanic/Latino"
+   }
+},
+ {
+   "name": "Alice Brown",
+   "age": "24",
+   "gender": "Female",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Alvin Haynes",
+   "age": "57",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Amilcar Perez-Lopez",
+   "age": "21",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Hispanic/Latino"
+   }
+},
+ {
+   "name": "Andre Murphy Sr",
+   "age": "42",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Andres Lara-Rodriguez",
+   "age": "21",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Hispanic/Latino"
+   }
+},
+ {
+   "name": "Andrew Driver",
+   "age": "36",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Andrew Jackson",
+   "age": "26",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Andrew Shipley",
+   "age": "49",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Andrew Toto",
+   "age": "54",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Andrew Valadez",
+   "age": "26",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Andrew Williams",
+   "age": "48",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Andy Martinez",
+   "age": "33",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Hispanic/Latino"
+   }
+},
+ {
+   "name": "Angel Corona Jr",
+   "age": "21",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Hispanic/Latino"
+   }
+},
+ {
+   "name": "Angelo West",
+   "age": "41",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Anthony Bess",
+   "age": "48",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Anthony Briggs",
+   "age": "36",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Anthony Giaquinta",
+   "age": "41",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Hispanic/Latino"
+   }
+},
+ {
+   "name": "Anthony Gomez Jr",
+   "age": "29",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Anthony Hill",
+   "age": "27",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Anthony Purvis",
+   "age": "45",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Antonio Perez",
+   "age": "32",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Hispanic/Latino"
+   }
+},
+ {
+   "name": "Antonio Zambrano-Montes",
+   "age": "35",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Hispanic/Latino"
+   }
+},
+ {
+   "name": "Artago Howard",
+   "age": "36",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Askari Roberts",
+   "age": "35",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Aurelio Duarte",
+   "age": "40",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Hispanic/Latino"
+   }
+},
+ {
+   "name": "Austin Goodner",
+   "age": "18",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Autumn Steele",
+   "age": "34",
+   "gender": "Female",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Benito Osorio",
+   "age": "39",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Hispanic/Latino"
+   }
+},
+ {
+   "name": "Benjamin Quezada",
+   "age": "21",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Hispanic/Latino"
+   }
+},
+ {
+   "name": "Bernard Moore",
+   "age": "62",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Betty Sexton",
+   "age": "43",
+   "gender": "Female",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Billy Grimm",
+   "age": "44",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Billy Patrick",
+   "age": "29",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Bobby Gross",
+   "age": "35",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Bradford Leonard",
+   "age": "50",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Brandon Jones",
+   "age": "18",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Brandon Lawrence",
+   "age": "25",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Brandon Rapp",
+   "age": "31",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Brendon Glenn",
+   "age": "29",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Brian Babb",
+   "age": "49",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Brian Barbosa",
+   "age": "23",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Unknown"
+   }
+},
+ {
+   "name": "Brian Fritze",
+   "age": "45",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Brian Pickett",
+   "age": "26",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Brock Nichols",
+   "age": "35",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Bruce Steward",
+   "age": "34",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Bruce Zalonka",
+   "age": "46",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Asian/Pacific Islander"
+   }
+},
+ {
+   "name": "Byron Herbert",
+   "age": "29",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Calvon Reid",
+   "age": "39",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Carl Lao",
+   "age": "28",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Asian/Pacific Islander"
+   }
+},
+ {
+   "name": "Carlos Saavedra Ramirez",
+   "age": "51",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Hispanic/Latino"
+   }
+},
+ {
+   "name": "Carter Ray Castle",
+   "age": "67",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Cary Martin",
+   "age": "53",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Caso Jackson",
+   "age": "25",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Cedrick Bishop",
+   "age": "30",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Celin Nunez",
+   "age": "24",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Hispanic/Latino"
+   }
+},
+ {
+   "name": "Chance Thompson",
+   "age": "35",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Charly 'Africa' Keunang",
+   "age": "43",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Chazsten Freeman",
+   "age": "24",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Chris Ingram",
+   "age": "29",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Chrislon Talbott",
+   "age": "38",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Christopher Finley",
+   "age": "31",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Christopher Healy",
+   "age": "36",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Christopher Mitchell",
+   "age": "23",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Christopher Prevatt",
+   "age": "38",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Clifton Reintzel",
+   "age": "53",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Cody Evans",
+   "age": "24",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Cody Karasek",
+   "age": "26",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Cornelius Parker",
+   "age": "28",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Crystal Miley",
+   "age": "34",
+   "gender": "Female",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "D'Angelo Stallworth",
+   "age": "28",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "DaJuan Graham",
+   "age": "40",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Dalton Branch",
+   "age": "51",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Dana Hlavinka",
+   "age": "44",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Daniel Brumley",
+   "age": "25",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Hispanic/Latino"
+   }
+},
+ {
+   "name": "Daniel Caldwell",
+   "age": "56",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Daniel Covarrubias",
+   "age": "37",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Hispanic/Latino"
+   }
+},
+ {
+   "name": "Daniel Davis",
+   "age": "58",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Daniel Elrod",
+   "age": "39",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Daniel Mejia",
+   "age": "37",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Hispanic/Latino"
+   }
+},
+ {
+   "name": "Daniel Wolfe",
+   "age": "35",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Darin Hutchins",
+   "age": "26",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Darrell 'Hubbard' Gatewood",
+   "age": "47",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Darrell Brown",
+   "age": "31",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Darrell Morgan",
+   "age": "60",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Darrin Langford",
+   "age": "32",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Daryl Myler",
+   "age": "45",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "David Cuevas",
+   "age": "42",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Hispanic/Latino"
+   }
+},
+ {
+   "name": "David Gaines",
+   "age": "17",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "David Gandara",
+   "age": "22",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Hispanic/Latino"
+   }
+},
+ {
+   "name": "David Garcia",
+   "age": "33",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Hispanic/Latino"
+   }
+},
+ {
+   "name": "David Johnson",
+   "age": "18",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "David Kapuscinski",
+   "age": "39",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "David Kassick",
+   "age": "59",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "David Lynch",
+   "age": "33",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "David Parker",
+   "age": "58",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "David Schwalm",
+   "age": "58",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "David Watford",
+   "age": "47",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "David Werblow",
+   "age": "41",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Dean Bucheit",
+   "age": "64",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Dean Genova",
+   "age": "45",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Deanne Choate",
+   "age": "53",
+   "gender": "Female",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Declan Owen",
+   "age": "24",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Dedrick Marshall",
+   "age": "48",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Demaris Turner",
+   "age": "29",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Denis Reyes",
+   "age": "40",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Hispanic/Latino"
+   }
+},
+ {
+   "name": "Dennis Fiel",
+   "age": "34",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Denzel Brown",
+   "age": "21",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Derek Cruice",
+   "age": "26",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Desmond Luster",
+   "age": "45",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Desmond Willis",
+   "age": "25",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Deven Guilford",
+   "age": "17",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Devin Gates",
+   "age": "24",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Dewayne Carr",
+   "age": "42",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Dewayne Ward Jr",
+   "age": "29",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Dexter Bethea",
+   "age": "42",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Dominick Wise",
+   "age": "30",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Don Smith",
+   "age": "29",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Donald 'Dontay' Ivy",
+   "age": "39",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Donald Hicks",
+   "age": "63",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Donald Matkins",
+   "age": "49",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Donte Noble",
+   "age": "41",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Donte Sowell",
+   "age": "27",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Doug Sparks",
+   "age": "30",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Douglas Faith",
+   "age": "60",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Douglas Harris",
+   "age": "77",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Ebin Proctor",
+   "age": "19",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Unknown"
+   }
+},
+ {
+   "name": "Edixon Franco",
+   "age": "37",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Hispanic/Latino"
+   }
+},
+ {
+   "name": "Edward Bright Sr",
+   "age": "54",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Elias Cavazos",
+   "age": "29",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Hispanic/Latino"
+   }
+},
+ {
+   "name": "Elton Simpson",
+   "age": "30",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Elvin Diaz",
+   "age": "24",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Hispanic/Latino"
+   }
+},
+ {
+   "name": "Enoch Gaver",
+   "age": "21",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Eric Harris",
+   "age": "44",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Eric Robinson",
+   "age": "40",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Erick Rose",
+   "age": "32",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Erick Sanchez",
+   "age": "22",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Hispanic/Latino"
+   }
+},
+ {
+   "name": "Erik Tellez",
+   "age": "43",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Ernesto Flores",
+   "age": "52",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Hispanic/Latino"
+   }
+},
+ {
+   "name": "Ernesto Javier Canepa Diaz",
+   "age": "27",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Hispanic/Latino"
+   }
+},
+ {
+   "name": "Ethan Noll",
+   "age": "34",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Eugene Smith II",
+   "age": "20",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Fednel Rhinvil",
+   "age": "25",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Felix David",
+   "age": "24",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Feras Morad",
+   "age": "20",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Unknown"
+   }
+},
+ {
+   "name": "Fletcher Stewart",
+   "age": "46",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Francis Rose III",
+   "age": "42",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Francis Spivey",
+   "age": "43",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Frank 'Trey' Shephard III",
+   "age": "41",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Fred Liggett Jr",
+   "age": "59",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Freddie Gray",
+   "age": "25",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Fridoon Rawshannehad",
+   "age": "42",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Garland Wingo",
+   "age": "64",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Garrett Gagne",
+   "age": "22",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Garrett Sandeno",
+   "age": "24",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Gary Collins",
+   "age": "63",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Gary Kendrick",
+   "age": "56",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Gary Page",
+   "age": "60",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Gilbert Fleury",
+   "age": "54",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Glenn Lewis",
+   "age": "37",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Gordon Kimbrell Jr",
+   "age": "22",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Gregory Smith",
+   "age": "39",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Grover Sapp Jr",
+   "age": "45",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Harry Davis",
+   "age": "57",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Harvey Oates",
+   "age": "42",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Hashim Abdul-Rasheed",
+   "age": "41",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Hector Morejon",
+   "age": "19",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Hispanic/Latino"
+   }
+},
+ {
+   "name": "Herbert Hill",
+   "age": "26",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Howard Brent Means Jr",
+   "age": "34",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Howard Robbins",
+   "age": "69",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Hue Dang",
+   "age": "64",
+   "gender": "Female",
+   "race": {
+      "ethnicity": "Asian/Pacific Islander"
+   }
+},
+ {
+   "name": "Hung Trieu",
+   "age": "35",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Asian/Pacific Islander"
+   }
+},
+ {
+   "name": "Ian Sherrod",
+   "age": "40",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Isaac Holmes",
+   "age": "19",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Isaac Jimenez",
+   "age": "27",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Hispanic/Latino"
+   }
+},
+ {
+   "name": "Izzy Colon",
+   "age": "37",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Hispanic/Latino"
+   }
+},
+ {
+   "name": "Jacob Haglund",
+   "age": "17",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Jamalis Hall",
+   "age": "39",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "James Allen",
+   "age": "74",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "James Barker",
+   "age": "42",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "James Bushey",
+   "age": "47",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "James Cooper",
+   "age": "43",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "James Damon",
+   "age": "46",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "James Ellis",
+   "age": "44",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "James Greenwell",
+   "age": "31",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "James Horn Jr",
+   "age": "47",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "James Jimenez",
+   "age": "41",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Hispanic/Latino"
+   }
+},
+ {
+   "name": "James Moore",
+   "age": "43",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "James Morris",
+   "age": "40",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Unknown"
+   }
+},
+ {
+   "name": "James Strong",
+   "age": "32",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Jamie Croom",
+   "age": "31",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Jamison Childress",
+   "age": "20",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Janisha Fonville",
+   "age": "20",
+   "gender": "Female",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Jared Forsyth",
+   "age": "33",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Jared Johnson",
+   "age": "22",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Jason Carter",
+   "age": "41",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Jason Champion",
+   "age": "41",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Jason Evans",
+   "age": "32",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Jason Hendrix",
+   "age": "16",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Jason Moland",
+   "age": "29",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Jason Smith",
+   "age": "42",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Javoris Washington",
+   "age": "29",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Jeff Alexander",
+   "age": "47",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Jeffery Adkins",
+   "age": "53",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Jeffery Kemp",
+   "age": "18",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Jeffrey Jackson",
+   "age": "47",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Jeffrey Nielson",
+   "age": "34",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Jeffrey Pitts",
+   "age": "36",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Jeffrey Surnow",
+   "age": "63",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Jeremy Anderson",
+   "age": "36",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Jeremy Kelly",
+   "age": "27",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Jeremy Lett",
+   "age": "28",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Jermonte Fletcher",
+   "age": "33",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Jerome Caldwell",
+   "age": "32",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Jerome Nichols",
+   "age": "42",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Jess Leipold",
+   "age": "31",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Jessica Hernandez",
+   "age": "17",
+   "gender": "Female",
+   "race": {
+      "ethnicity": "Hispanic/Latino"
+   }
+},
+ {
+   "name": "Jessica Uribe",
+   "age": "28",
+   "gender": "Female",
+   "race": {
+      "ethnicity": "Unknown"
+   }
+},
+ {
+   "name": "Jessie Williams",
+   "age": "24",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Jimmy Foreman",
+   "age": "71",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Unknown"
+   }
+},
+ {
+   "name": "Jimmy Robinson Jr",
+   "age": "51",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Joaquin Hernandez",
+   "age": "28",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Hispanic/Latino"
+   }
+},
+ {
+   "name": "John Acree",
+   "age": "53",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "John Allen",
+   "age": "54",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "John Ballard Gorman",
+   "age": "45",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "John Kaafi",
+   "age": "33",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "John Marshall",
+   "age": "48",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "John O'Keefe",
+   "age": "34",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "John Quintero",
+   "age": "23",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Hispanic/Latino"
+   }
+},
+ {
+   "name": "John Sawyer",
+   "age": "35",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "John Whittaker",
+   "age": "33",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Hispanic/Latino"
+   }
+},
+ {
+   "name": "Johnathon Guillory",
+   "age": "32",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Jonathan Colley",
+   "age": "52",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Jonathan Efraim",
+   "age": "30",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Jonathan Harden",
+   "age": "23",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Jonathan McIntosh",
+   "age": "35",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Jonathan Paul",
+   "age": "42",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Jonathan Pierce",
+   "age": "37",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Jose Antonio Espinoza Ruiz",
+   "age": "56",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Hispanic/Latino"
+   }
+},
+ {
+   "name": "Jose Ceja",
+   "age": "36",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Hispanic/Latino"
+   }
+},
+ {
+   "name": "Jose Herrera",
+   "age": "27",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Hispanic/Latino"
+   }
+},
+ {
+   "name": "Joseph Biegert",
+   "age": "30",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Joseph Caffarello",
+   "age": "31",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Joseph Paffen",
+   "age": "46",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Joseph Potts",
+   "age": "51",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Joseph Roy",
+   "age": "72",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Unknown"
+   }
+},
+ {
+   "name": "Joseph Slater",
+   "age": "28",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Joseph Tassinari",
+   "age": "63",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Joseph Weber",
+   "age": "28",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Joshua Deysie",
+   "age": "33",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Hispanic/Latino"
+   }
+},
+ {
+   "name": "Joshua Garcia",
+   "age": "24",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Hispanic/Latino"
+   }
+},
+ {
+   "name": "Joshua Green",
+   "age": "27",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Justin Fowler",
+   "age": "24",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Native American"
+   }
+},
+ {
+   "name": "Justin Tolkinen",
+   "age": "28",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Justin Way",
+   "age": "28",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Justus Howell",
+   "age": "17",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Karen Janks",
+   "age": "46",
+   "gender": "Female",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Karl Taylor",
+   "age": "52",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Kavonda Payton",
+   "age": "39",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Kaylene Stone",
+   "age": "49",
+   "gender": "Female",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Kelvin Goldston",
+   "age": "30",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Ken Cockerel",
+   "age": "51",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Kendre Alston",
+   "age": "16",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Kenneth Brown",
+   "age": "18",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Kenneth Buck",
+   "age": "22",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Hispanic/Latino"
+   }
+},
+ {
+   "name": "Kenneth Dothard",
+   "age": "40",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Kenneth Kreyssig",
+   "age": "61",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Kenneth Mathena",
+   "age": "52",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Kent Norman",
+   "age": "51",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Kevin Allen",
+   "age": "36",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Kevin Norton",
+   "age": "36",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Kimber Key",
+   "age": "59",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Kristiana Coignard",
+   "age": "17",
+   "gender": "Female",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Kyle Baker",
+   "age": "18",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Larry Hostetter",
+   "age": "41",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Larry Kobuk",
+   "age": "33",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Native American"
+   }
+},
+ {
+   "name": "Lavall Hall",
+   "age": "25",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Ledarius Williams",
+   "age": "23",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Leslie Sapp III",
+   "age": "47",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Lester Brown",
+   "age": "58",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Lewis Lembke",
+   "age": "47",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Lionel Young",
+   "age": "34",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Loren Simpson",
+   "age": "28",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Lorenzo Hayes",
+   "age": "37",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Louis Becker",
+   "age": "87",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Lue Vang",
+   "age": "39",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Asian/Pacific Islander"
+   }
+},
+ {
+   "name": "Luis Chavez-Diaz",
+   "age": "27",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Hispanic/Latino"
+   }
+},
+ {
+   "name": "Luis Molina Martinez",
+   "age": "35",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Hispanic/Latino"
+   }
+},
+ {
+   "name": "Mack Long",
+   "age": "36",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Marcus Golden",
+   "age": "24",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Marcus Wheeler",
+   "age": "26",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Mario Jordan",
+   "age": "34",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Mark Adair",
+   "age": "51",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Mark Cecil Hawkins",
+   "age": "49",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Mark Farrar",
+   "age": "41",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Mark Smith",
+   "age": "54",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Markell Atkins",
+   "age": "36",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Markus Clark",
+   "age": "26",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Matautu Nuu",
+   "age": "35",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Asian/Pacific Islander"
+   }
+},
+ {
+   "name": "Matthew Ajibade",
+   "age": "22",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Matthew Belk",
+   "age": "27",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Matthew Coates",
+   "age": "42",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Matthew Hoffman",
+   "age": "32",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Matthew Lundy",
+   "age": "32",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Matthew Metz",
+   "age": "25",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Meagan Hockaday",
+   "age": "26",
+   "gender": "Female",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Michael Asher",
+   "age": "53",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Michael Casper",
+   "age": "26",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Michael Foster",
+   "age": "40",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Michael Gallagher",
+   "age": "55",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Michael Goebel",
+   "age": "29",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Michael Ireland",
+   "age": "31",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Michael Kocher Jr",
+   "age": "19",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Michael Lemon",
+   "age": "57",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Unknown"
+   }
+},
+ {
+   "name": "Michael Lowrey",
+   "age": "40",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Michael McKillop",
+   "age": "35",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Michael Murphy",
+   "age": "35",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Michael Rodriguez",
+   "age": "39",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Hispanic/Latino"
+   }
+},
+ {
+   "name": "Michael Smashey",
+   "age": "37",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Miguel Anguel de Santos-Rodriguez",
+   "age": "36",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Hispanic/Latino"
+   }
+},
+ {
+   "name": "Millard Tallant III",
+   "age": "62",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Monique Deckard",
+   "age": "43",
+   "gender": "Female",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Mychael Lynch",
+   "age": "32",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Nadir Soofi",
+   "age": "34",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Asian/Pacific Islander"
+   }
+},
+ {
+   "name": "Naeschylus Vinzant",
+   "age": "37",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Natasha McKenna",
+   "age": "37",
+   "gender": "Female",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Nathan Massey",
+   "age": "33",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Nehemiah Fischer",
+   "age": "35",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Neil Seifert",
+   "age": "40",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Nephi Arriguin",
+   "age": "21",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Nicholas Brickman",
+   "age": "30",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Nicholas Thomas",
+   "age": "23",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Nicolas Tewa",
+   "age": "26",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Native American"
+   }
+},
+ {
+   "name": "Nikki Burtsfield",
+   "age": "39",
+   "gender": "Female",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Norman Cooper",
+   "age": "33",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Nuwnah Laroche",
+   "age": "34",
+   "gender": "Female",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Omarr Jackson",
+   "age": "37",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Orlando Lopez",
+   "age": "26",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Hispanic/Latino"
+   }
+},
+ {
+   "name": "Pablo Meza",
+   "age": "24",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Hispanic/Latino"
+   }
+},
+ {
+   "name": "Patrick Wetter",
+   "age": "25",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Paul Anderson",
+   "age": "31",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Paul Campbell",
+   "age": "49",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Paul Johnson",
+   "age": "59",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Pedro 'Pete' Juan Saldivar",
+   "age": "50",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Hispanic/Latino"
+   }
+},
+ {
+   "name": "Philip Conley",
+   "age": "37",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Phillip Burgess",
+   "age": "28",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Phillip Garcia",
+   "age": "26",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Hispanic/Latino"
+   }
+},
+ {
+   "name": "Phillip Watkins",
+   "age": "23",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Phillip White",
+   "age": "32",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Quincy Reed Reindl",
+   "age": "24",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Ralph Willis",
+   "age": "42",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Randall Torrence",
+   "age": "34",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Raymond Kmetz",
+   "age": "68",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Reginald McGregor",
+   "age": "31",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Richard 'Buddy' Weaver",
+   "age": "83",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Richard Carlin",
+   "age": "35",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Richard Castilleja",
+   "age": "29",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Hispanic/Latino"
+   }
+},
+ {
+   "name": "Richard Davis",
+   "age": "50",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Richard Hanna",
+   "age": "56",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Unknown"
+   }
+},
+ {
+   "name": "Richard McClendon",
+   "age": "43",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Richard Reed",
+   "age": "38",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Richard White",
+   "age": "63",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Ricky Hall",
+   "age": "27",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Roark Cook",
+   "age": "36",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Robert Box",
+   "age": "55",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Robert Burdge",
+   "age": "36",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Robert Edwards",
+   "age": "68",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Robert Francis Mesch",
+   "age": "61",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Robert Frost",
+   "age": "46",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Robert Kohl",
+   "age": "47",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Robert Rooker",
+   "age": "26",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Robert Washington",
+   "age": "37",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Roberto Leon",
+   "age": "22",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Hispanic/Latino"
+   }
+},
+ {
+   "name": "Roberto Ornelas",
+   "age": "18",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Hispanic/Latino"
+   }
+},
+ {
+   "name": "Roberto Rodriguez",
+   "age": "39",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Hispanic/Latino"
+   }
+},
+ {
+   "name": "Rodney Biggs",
+   "age": "49",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Rodney Walker",
+   "age": "23",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Rodolfo Velazquez",
+   "age": "47",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Hispanic/Latino"
+   }
+},
+ {
+   "name": "Ronald Sneed",
+   "age": "32",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Ronell Wade",
+   "age": "45",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Roy Day",
+   "age": "51",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Rub�_�n Garc�__a Villalpando",
+   "age": "31",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Hispanic/Latino"
+   }
+},
+ {
+   "name": "Russell Sharrer",
+   "age": "54",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Ryan Burgess",
+   "age": "31",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Salome Rodriguez Jr",
+   "age": "23",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Hispanic/Latino"
+   }
+},
+ {
+   "name": "Salvador Figueroa",
+   "age": "29",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Hispanic/Latino"
+   }
+},
+ {
+   "name": "Salvador Muna",
+   "age": "28",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Hispanic/Latino"
+   }
+},
+ {
+   "name": "Sam Holmes",
+   "age": "31",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Santos 'Cuate' Cortez Hernandez",
+   "age": "24",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Hispanic/Latino"
+   }
+},
+ {
+   "name": "Sawyer Flache",
+   "age": "27",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Scott Dunham",
+   "age": "57",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Scott McAllister",
+   "age": "39",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Unknown"
+   }
+},
+ {
+   "name": "Sean Pelletier",
+   "age": "38",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Sergio Navas",
+   "age": "34",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Hispanic/Latino"
+   }
+},
+ {
+   "name": "Shane Watkins",
+   "age": "39",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Shaquille Barrow",
+   "age": "20",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Shaun Johnson",
+   "age": "35",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Shawn Clyde",
+   "age": "36",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Sheldon Haleck",
+   "age": "38",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Asian/Pacific Islander"
+   }
+},
+ {
+   "name": "Simon Hubble",
+   "age": "33",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Sinthanouxay Khottavongsa",
+   "age": "57",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Asian/Pacific Islander"
+   }
+},
+ {
+   "name": "Stanley Grant",
+   "age": "38",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Stanley Watson",
+   "age": "72",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Stephanie Hill",
+   "age": "37",
+   "gender": "Female",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Stephen Cunningham",
+   "age": "47",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Steven Davenport",
+   "age": "43",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Steven Snyder",
+   "age": "37",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Talbot Schroeder",
+   "age": "75",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Terence Walker",
+   "age": "21",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Terrance Kellom",
+   "age": "20",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Terrance Moxley",
+   "age": "29",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Terry Garnett Jr",
+   "age": "37",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Terry Price",
+   "age": "41",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Tevin Barkley",
+   "age": "22",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Thaddeus McCarroll",
+   "age": "23",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Theodore Johnson",
+   "age": "64",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Thomas Allen Jr",
+   "age": "34",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Thomas Hamby",
+   "age": "49",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Thong Kien Ma",
+   "age": "32",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Asian/Pacific Islander"
+   }
+},
+ {
+   "name": "Tiano Meton",
+   "age": "25",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Tiffany Terry",
+   "age": "39",
+   "gender": "Female",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Tim Elliott",
+   "age": "53",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Unknown"
+   }
+},
+ {
+   "name": "Timothy Jones",
+   "age": "27",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Todd Allen Hodge",
+   "age": "36",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Todd Jamal Dye",
+   "age": "20",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Tommy Smith",
+   "age": "39",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Tony Robinson",
+   "age": "19",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Tony Ross",
+   "age": "34",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Troy Boyd",
+   "age": "36",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Tyrel Vick",
+   "age": "34",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Tyrell Larsen",
+   "age": "31",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Tyrone Ryerson",
+   "age": "45",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Tyson Hubbard",
+   "age": "34",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Unknown",
+   "age": "Unknown",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Unknown"
+   }
+},
+ {
+   "name": "Unknown",
+   "age": "Unknown",
+   "gender": "Female",
+   "race": {
+      "ethnicity": "Unknown"
+   }
+},
+ {
+   "name": "Unknown",
+   "age": "Unknown",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Victor Reyes",
+   "age": "31",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Hispanic/Latino"
+   }
+},
+ {
+   "name": "Victor Terrazas",
+   "age": "28",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Hispanic/Latino"
+   }
+},
+ {
+   "name": "Vincent Cordaro",
+   "age": "57",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Walter Brown III",
+   "age": "29",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Walter Scott",
+   "age": "50",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Wendell King",
+   "age": "40",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Wilber Castillo-Gongora",
+   "age": "35",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Hispanic/Latino"
+   }
+},
+ {
+   "name": "William 'Rusty' Smith",
+   "age": "53",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "William Campbell",
+   "age": "59",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Unknown"
+   }
+},
+ {
+   "name": "William Chapman II",
+   "age": "18",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "William Dick III",
+   "age": "28",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Native American"
+   }
+},
+ {
+   "name": "William Poole",
+   "age": "52",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "White"
+   }
+},
+ {
+   "name": "Yuvette Henderson",
+   "age": "38",
+   "gender": "Female",
+   "race": {
+      "ethnicity": "Black"
+   }
+},
+ {
+   "name": "Zaki Shinwary",
+   "age": "48",
+   "gender": "Male",
+   "race": {
+      "ethnicity": "Unknown"
+   }
+}
+]

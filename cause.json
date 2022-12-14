@@ -1,0 +1,2337 @@
+[
+ {
+   "law_enforcement_agency": "Millbrook Police Department",
+   "cause": "Gunshot",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "Rapides Parish Sheriff's Office",
+   "cause": "Gunshot",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "Kenosha Police Department",
+   "cause": "Gunshot",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "South Gate Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Kent Police Department",
+   "cause": "Gunshot",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "Phoenix Police Department",
+   "cause": "Gunshot",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "Bakersfield Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Los Angeles Police Department",
+   "cause": "Gunshot",
+   "armed": "Non-lethal firearm"
+ },
+ {
+   "law_enforcement_agency": "Wise County Sheriff's Department and Texas DPS ",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Kentwood Police Department and Wyoming DPS",
+   "cause": "Gunshot",
+   "armed": "Other"
+ },
+ {
+   "law_enforcement_agency": "Kings County Sheriff's Office",
+   "cause": "Gunshot",
+   "armed": "Knife"
+ },
+ {
+   "law_enforcement_agency": "Orange County Sheriff's Department",
+   "cause": "Gunshot",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "US Marshals Service",
+   "cause": "Gunshot",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "Terre Haute Police Department ",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Indianapolis Metropolitan Police Department",
+   "cause": "Gunshot",
+   "armed": "Non-lethal firearm"
+ },
+ {
+   "law_enforcement_agency": "Metro Nashville Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Atlanta Police Department",
+   "cause": "Gunshot",
+   "armed": "Vehicle"
+ },
+ {
+   "law_enforcement_agency": "Arlington Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "San Francisco Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "San Francisco Sheriff's Department",
+   "cause": "Death in custody",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "San Francisco Police Department",
+   "cause": "Gunshot",
+   "armed": "Vehicle"
+ },
+ {
+   "law_enforcement_agency": "Norfolk Police Division",
+   "cause": "Death in custody",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "Kansas City KS Police Department and Kansas Highway Patrol",
+   "cause": "Gunshot",
+   "armed": "Other"
+ },
+ {
+   "law_enforcement_agency": "Fontana Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Grady County Sheriff's Department and Chickasha Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Medford Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Derry Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Los Angeles Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Putnam County Sheriff's Office",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "El Paso Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Tehama County Sheriff's Department",
+   "cause": "Gunshot",
+   "armed": "Knife"
+ },
+ {
+   "law_enforcement_agency": "Boston Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Memphis Police Department",
+   "cause": "Gunshot",
+   "armed": "Vehicle"
+ },
+ {
+   "law_enforcement_agency": "Huntsville Police Department",
+   "cause": "Gunshot",
+   "armed": "Knife"
+ },
+ {
+   "law_enforcement_agency": "Habersham County Sheriff's Office",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Lancaster Police Department",
+   "cause": "Gunshot",
+   "armed": "Knife"
+ },
+ {
+   "law_enforcement_agency": "DeKalb County Sheriff's Department",
+   "cause": "Gunshot",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "Douglas Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Los Angeles County Sheriff's Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Pasco Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Union County Sheriff's Office",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Floyd County Sheriff's Office",
+   "cause": "Taser",
+   "armed": "Knife"
+ },
+ {
+   "law_enforcement_agency": "Oklahoma City Police Department",
+   "cause": "Gunshot",
+   "armed": "Vehicle"
+ },
+ {
+   "law_enforcement_agency": "St Petersburg Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Burlington Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Santa Ana Police Department",
+   "cause": "Gunshot",
+   "armed": "Knife"
+ },
+ {
+   "law_enforcement_agency": "Baytown Police Department",
+   "cause": "Gunshot",
+   "armed": "Other"
+ },
+ {
+   "law_enforcement_agency": "Atlanta Police Department",
+   "cause": "Struck by vehicle",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "Gastonia Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Bernalillo County Sheriff's Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Oklahoma Department of Wildlife Conservation",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Washington DC Metro Transit Police",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Palm Bay Police Department",
+   "cause": "Gunshot",
+   "armed": "Knife"
+ },
+ {
+   "law_enforcement_agency": "Cleveland Division of Police",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Victoria Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Canyon County Sheriff's Office",
+   "cause": "Gunshot",
+   "armed": "Knife"
+ },
+ {
+   "law_enforcement_agency": "Los Angeles Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Eugene Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "South Gate Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Garfield County Sheriff's Office",
+   "cause": "Gunshot",
+   "armed": "Knife"
+ },
+ {
+   "law_enforcement_agency": "Los Angeles County Sheriff's Department",
+   "cause": "Taser",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Saline County Sheriff's Office",
+   "cause": "Gunshot",
+   "armed": "Knife"
+ },
+ {
+   "law_enforcement_agency": "Clackamas County Sheriff's Office",
+   "cause": "Gunshot",
+   "armed": "Non-lethal firearm"
+ },
+ {
+   "law_enforcement_agency": "US Marshals Service",
+   "cause": "Gunshot",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "Elizabethtown Police Department",
+   "cause": "Gunshot",
+   "armed": "Knife"
+ },
+ {
+   "law_enforcement_agency": "Coconut Creek Police Department",
+   "cause": "Taser",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Stockton Police Department and San Joaquin County Sheriff's Office",
+   "cause": "Gunshot",
+   "armed": "Knife"
+ },
+ {
+   "law_enforcement_agency": "Bisbee Police Department",
+   "cause": "Gunshot",
+   "armed": "Knife"
+ },
+ {
+   "law_enforcement_agency": "Magoffin County Sheriff's Office and Kentucky State Police",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "St Johns County Sheriff's Office",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Detroit Police Department",
+   "cause": "Gunshot",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "Brevard County Sheriff's Office",
+   "cause": "Gunshot",
+   "armed": "Knife"
+ },
+ {
+   "law_enforcement_agency": "Houston Police Department",
+   "cause": "Gunshot",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "Yuba County Sheriff's Office",
+   "cause": "Taser",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Los Angeles Police Department",
+   "cause": "Gunshot",
+   "armed": "Vehicle"
+ },
+ {
+   "law_enforcement_agency": "Greenville County Sheriff's Office",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Clifton Police Department and Greenlee County Sheriff's Office",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Owensboro Police Department and Kentucky State Police",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Jonesboro Police Department",
+   "cause": "Gunshot",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "Portland Police Department",
+   "cause": "Gunshot",
+   "armed": "Other"
+ },
+ {
+   "law_enforcement_agency": "Port Wentworth Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Frederick County Sheriff's Office",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "West Virginia State Police",
+   "cause": "Gunshot",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "Provo Police Department",
+   "cause": "Gunshot",
+   "armed": "Knife"
+ },
+ {
+   "law_enforcement_agency": "Rosenburg Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Boone County Sheriff's Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Worth County Sheriff's Office",
+   "cause": "Gunshot",
+   "armed": "Knife"
+ },
+ {
+   "law_enforcement_agency": "Jacksonville Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Montgomery County Police Department",
+   "cause": "Taser",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "New York Police Department",
+   "cause": "Gunshot",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "Sidney Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Fort Worth Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Marana Police Department",
+   "cause": "Gunshot",
+   "armed": "Knife"
+ },
+ {
+   "law_enforcement_agency": "Lakewood Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Lake County Sheriff's Office",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Omaha Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Pinal County Sheriff's Office",
+   "cause": "Gunshot",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "New Jersey State Police",
+   "cause": "Gunshot",
+   "armed": "Knife"
+ },
+ {
+   "law_enforcement_agency": "Baltimore Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Oklahoma City Police Department",
+   "cause": "Taser",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Hagerstown Police Department",
+   "cause": "Taser",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Lancaster County Sheriff's Department",
+   "cause": "Gunshot",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "Rock Island Police Department",
+   "cause": "Gunshot",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "Rexburg Police Department",
+   "cause": "Gunshot",
+   "armed": "Non-lethal firearm"
+ },
+ {
+   "law_enforcement_agency": "Lakeland Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Grand Junction Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "El Paso Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Kern County Sheriff's Office",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Wake Forest Police Department",
+   "cause": "Gunshot",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "Gibraltar Police Department",
+   "cause": "Taser",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Hummelstown Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Warner Police Department",
+   "cause": "Taser",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Mansfield Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Oswego County Sheriff's Department",
+   "cause": "Gunshot",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "Louisiana State Troopers",
+   "cause": "Struck by vehicle",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Branford Police Department",
+   "cause": "Taser",
+   "armed": "Other"
+ },
+ {
+   "law_enforcement_agency": "Los Angeles Police Department",
+   "cause": "Struck by vehicle",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Fountain Valley Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Gardner Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Bladen County Sheriff's Office and Bladenboro Police Department",
+   "cause": "Gunshot",
+   "armed": "Knife"
+ },
+ {
+   "law_enforcement_agency": "Jefferson Parish Sheriff's Office",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Lauderhill Police Department",
+   "cause": "Gunshot",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "New York Police Department",
+   "cause": "Death in custody",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "San Diego Police Department",
+   "cause": "Gunshot",
+   "armed": "Vehicle"
+ },
+ {
+   "law_enforcement_agency": "Suffolk County Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Volusia County Sheriff's Office",
+   "cause": "Gunshot",
+   "armed": "Unknown"
+ },
+ {
+   "law_enforcement_agency": "Dallas Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Jefferson Parish Sheriff's Office",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Eaton County Sheriff's Office",
+   "cause": "Gunshot",
+   "armed": "Non-lethal firearm"
+ },
+ {
+   "law_enforcement_agency": "Santa Clara Police Department",
+   "cause": "Gunshot",
+   "armed": "Other"
+ },
+ {
+   "law_enforcement_agency": "Scottsdale Police Department",
+   "cause": "Gunshot",
+   "armed": "Knife"
+ },
+ {
+   "law_enforcement_agency": "Contra Costa Sheriff's Office",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Lowndes County Sheriff's Office",
+   "cause": "Gunshot",
+   "armed": "Knife"
+ },
+ {
+   "law_enforcement_agency": "Culpeper Police Department",
+   "cause": "Taser",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Indiana State Police, Tippecanoe County Sheriff's Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "City of Albany Police Department",
+   "cause": "Taser",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Metropolis Police Department",
+   "cause": "Gunshot",
+   "armed": "Non-lethal firearm"
+ },
+ {
+   "law_enforcement_agency": "George County Sheriff's Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Spartanburg Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Indianapolis Metropolitan Police Department",
+   "cause": "Gunshot",
+   "armed": "Other"
+ },
+ {
+   "law_enforcement_agency": "Tewksbury Police Department",
+   "cause": "Gunshot",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "San Antonio Police Department",
+   "cause": "Gunshot",
+   "armed": "Knife"
+ },
+ {
+   "law_enforcement_agency": "Birmingham Police Department",
+   "cause": "Gunshot",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "Yavapai County Sheriff�_�_��s Office",
+   "cause": "Gunshot",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "Ontario Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Baltimore County Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Riverside County Sheriff's Department and California Highway Patrol",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Garland Police Department",
+   "cause": "Gunshot",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "Hackensack Police Department",
+   "cause": "Gunshot",
+   "armed": "Knife"
+ },
+ {
+   "law_enforcement_agency": "Cottonwood Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Tulsa County Sheriff's Office",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Eagar Police Department and Apache County Sheriff's Office",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Pottawatomie County Sheriff's Office",
+   "cause": "Gunshot",
+   "armed": "Knife"
+ },
+ {
+   "law_enforcement_agency": "El Paso Police Department",
+   "cause": "Gunshot",
+   "armed": "Knife"
+ },
+ {
+   "law_enforcement_agency": "Phoenix Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "San Bernardino County Sheriff's Office",
+   "cause": "Gunshot",
+   "armed": "Knife"
+ },
+ {
+   "law_enforcement_agency": "Santa Ana Police Department",
+   "cause": "Gunshot",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "New Mexico State Police",
+   "cause": "Gunshot",
+   "armed": "Vehicle"
+ },
+ {
+   "law_enforcement_agency": "Onalaska Police Department",
+   "cause": "Gunshot",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "Maryland State Police",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "New York Police Department",
+   "cause": "Gunshot",
+   "armed": "Knife"
+ },
+ {
+   "law_enforcement_agency": "Long Beach Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Tallapoosa County Sheriff's Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "San Bernardino County Sheriff's Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Las Vegas Metro Police (Swat)",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Harris County Sheriff's Office",
+   "cause": "Gunshot",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "US Marshals Service",
+   "cause": "Gunshot",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "Baltimore Police Department",
+   "cause": "Death in custody",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "San Diego Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Tallahassee Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Chatham Police Department",
+   "cause": "Struck by vehicle",
+   "armed": "Unknown"
+ },
+ {
+   "law_enforcement_agency": "Edmond Police Department",
+   "cause": "Gunshot",
+   "armed": "Knife"
+ },
+ {
+   "law_enforcement_agency": "Oklahoma Highway Patrol",
+   "cause": "Gunshot",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "San Diego County Sheriff's Department",
+   "cause": "Gunshot",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "Clay County Sheriff's Department",
+   "cause": "Gunshot",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "Baldwin County Sheriff's Office",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Oklahoma City Police Department",
+   "cause": "Gunshot",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "Santa Rosa County Sheriff's Office",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Lake County Sheriff's Department",
+   "cause": "Taser",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Panama City Police Department",
+   "cause": "Gunshot",
+   "armed": "Knife"
+ },
+ {
+   "law_enforcement_agency": "Putnam County Sheriff's Department",
+   "cause": "Gunshot",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "West Virginia State Police",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Columbus Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Long Beach Police Department",
+   "cause": "Gunshot",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "Oklahoma City Police Department",
+   "cause": "Gunshot",
+   "armed": "Knife"
+ },
+ {
+   "law_enforcement_agency": "Iuka Police Department",
+   "cause": "Gunshot",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "Stanford Police Department",
+   "cause": "Struck by vehicle",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "Bergen County Prosecutor's Department",
+   "cause": "Struck by vehicle",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "Harris County Attorney's Department",
+   "cause": "Gunshot",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "Tarboro Police Department and Edgecombe Sheriff's Office",
+   "cause": "Gunshot",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "St Louis Metropolitan Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Alton Police Department",
+   "cause": "Gunshot",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "Orlando Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Bay City Police Department",
+   "cause": "Gunshot",
+   "armed": "Knife"
+ },
+ {
+   "law_enforcement_agency": "Saint Lucie County Sheriff's Office",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Gastonia Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Salt Lake City Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Palestine Police Department",
+   "cause": "Gunshot",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "North Charleston Police Department",
+   "cause": "Gunshot",
+   "armed": "Knife"
+ },
+ {
+   "law_enforcement_agency": "Moffat County Sheriff's Office and Colorado Parks and Wildlife Law Enforcement",
+   "cause": "Gunshot",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "Orleans County Sheriff's Office",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Memphis Police Department",
+   "cause": "Gunshot",
+   "armed": "Other"
+ },
+ {
+   "law_enforcement_agency": "Pettis County Sheriff's Office",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Napa Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Tulsa Police Department",
+   "cause": "Struck by vehicle",
+   "armed": "Vehicle"
+ },
+ {
+   "law_enforcement_agency": "Medford Police Department",
+   "cause": "Gunshot",
+   "armed": "Non-lethal firearm"
+ },
+ {
+   "law_enforcement_agency": "Northglenn Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "US Marshals Service",
+   "cause": "Gunshot",
+   "armed": "Vehicle"
+ },
+ {
+   "law_enforcement_agency": "US Border Patrol",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Charlotte-Mecklenburg Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Ocala Police Department",
+   "cause": "Gunshot",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "New Orleans Police Department",
+   "cause": "Gunshot",
+   "armed": "Other"
+ },
+ {
+   "law_enforcement_agency": "New Mexico State Police and US Marshals Service",
+   "cause": "Gunshot",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "New Jersey State Police",
+   "cause": "Struck by vehicle",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "Sampson County Sheriff's Office",
+   "cause": "Gunshot",
+   "armed": "Knife"
+ },
+ {
+   "law_enforcement_agency": "Baltimore County Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Ceres Police Department",
+   "cause": "Gunshot",
+   "armed": "Knife"
+ },
+ {
+   "law_enforcement_agency": "Columbus Division of Police",
+   "cause": "Gunshot",
+   "armed": "Unknown"
+ },
+ {
+   "law_enforcement_agency": "Fort Lauderdale Police Department",
+   "cause": "Gunshot",
+   "armed": "Unknown"
+ },
+ {
+   "law_enforcement_agency": "Bakersfield Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Greensville County Sheriff's Office and Virginia State Police",
+   "cause": "Gunshot",
+   "armed": "Other"
+ },
+ {
+   "law_enforcement_agency": "Chicago Police Department",
+   "cause": "Gunshot",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "Whitley County Sheriff's Department and Kentucky State Police",
+   "cause": "Death in custody",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "West Valley City Police Department and Draper Police Police Department",
+   "cause": "Gunshot",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "Rockdale County Sheriff's office",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Hawaii Police Department",
+   "cause": "Struck by vehicle",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Tampa Bay Police Department [US Marshals Service Task Force]",
+   "cause": "Gunshot",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "Johnsonville Police Department and Florence County Sheriff's Department (Swat)",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Tallahassee Police Department",
+   "cause": "Gunshot",
+   "armed": "Vehicle"
+ },
+ {
+   "law_enforcement_agency": "Columbus Police Department, Ohio State Highway Patrol",
+   "cause": "Gunshot",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "South Carolina State Law Enforcement Division",
+   "cause": "Gunshot",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "Catasauqua Police Department",
+   "cause": "Gunshot",
+   "armed": "Knife"
+ },
+ {
+   "law_enforcement_agency": "Pennsylvania State Police",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Denver Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Tucson Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "FBI",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "England Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Waco Police Department",
+   "cause": "Gunshot",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "Tempe, Chandler and Mesa Police Departments [US Marshals Service Task Force]",
+   "cause": "Gunshot",
+   "armed": "Other"
+ },
+ {
+   "law_enforcement_agency": "Nashville Metropolitan Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Boulder City Police Department",
+   "cause": "Gunshot",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "Mississippi Gaming Commission",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Sarasota Police Department",
+   "cause": "Unknown",
+   "armed": "Other"
+ },
+ {
+   "law_enforcement_agency": "Billings Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Albuquerque Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Wichita Police Department",
+   "cause": "Gunshot",
+   "armed": "Knife"
+ },
+ {
+   "law_enforcement_agency": "Riverside County Sheriff's Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Anchorage Police Department",
+   "cause": "Gunshot",
+   "armed": "Knife"
+ },
+ {
+   "law_enforcement_agency": "Maricopa Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Summit County Sheriff's Office",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "New York Police Department",
+   "cause": "Gunshot",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "San Bernardino Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Lonoke County Sheriff's Office and Arkansas Department of Community Correction",
+   "cause": "Gunshot",
+   "armed": "Knife"
+ },
+ {
+   "law_enforcement_agency": "Arlington Police Department",
+   "cause": "Death in custody",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "Port St Joe Police Department",
+   "cause": "Gunshot",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "Levelland Police Department",
+   "cause": "Gunshot",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "Fairfield Police Department",
+   "cause": "Gunshot",
+   "armed": "Disputed"
+ },
+ {
+   "law_enforcement_agency": "California Department of Corrections and Rehabilitation",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Green Bay Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Rosemont Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Orange County Sheriff's Office",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Choctaw County Sheriff's Office and Hugo Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Gwinnett County Sheriff's Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Highland Police Department",
+   "cause": "Death in custody",
+   "armed": "Knife"
+ },
+ {
+   "law_enforcement_agency": "Glendale Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Sunnyvale Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Mesa Police Department",
+   "cause": "Gunshot",
+   "armed": "Knife"
+ },
+ {
+   "law_enforcement_agency": "Lynn County Sheriff's Office",
+   "cause": "Gunshot",
+   "armed": "Knife"
+ },
+ {
+   "law_enforcement_agency": "Marion Police Department, Illinois State Police and Williamson County Sheriff's Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Navajo Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "St Paul Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "St Johns County Sheriff's Office",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Zion Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Sonoma County Sheriff's Office",
+   "cause": "Gunshot",
+   "armed": "Vehicle"
+ },
+ {
+   "law_enforcement_agency": "New York Department of Corrections and Community Supervision",
+   "cause": "Death in custody",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Aurora Police Department",
+   "cause": "Gunshot",
+   "armed": "Vehicle"
+ },
+ {
+   "law_enforcement_agency": "Glendale Police Department",
+   "cause": "Gunshot",
+   "armed": "Non-lethal firearm"
+ },
+ {
+   "law_enforcement_agency": "Fort Worth Police Department",
+   "cause": "Gunshot",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "Phoenix Police Department",
+   "cause": "Gunshot",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "Jacksonville Sheriff's Office",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Oklahoma State Police",
+   "cause": "Gunshot",
+   "armed": "Non-lethal firearm"
+ },
+ {
+   "law_enforcement_agency": "Chandler Police Department",
+   "cause": "Gunshot",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "Carrolton Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Maine State Troopers and Aroostook County Sheriff's Department",
+   "cause": "Gunshot",
+   "armed": "Knife"
+ },
+ {
+   "law_enforcement_agency": "Smyrna Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Indianapolis Metropolitan Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Lyndhurst Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Roosevelt Police Department",
+   "cause": "Gunshot",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "Lexington County Sheriff's Office",
+   "cause": "Gunshot",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "Longview Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Trenton Police Department",
+   "cause": "Gunshot",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "Nocona Police Department",
+   "cause": "Gunshot",
+   "armed": "Other"
+ },
+ {
+   "law_enforcement_agency": "Anchorage Corrections Department",
+   "cause": "Death in custody",
+   "armed": "Knife"
+ },
+ {
+   "law_enforcement_agency": "Miami Gardens Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "St Louis Metropolitan Police Department",
+   "cause": "Gunshot",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "US Marshals Service, Pennsylvania State Police, Allegheny County Sheriff's Office",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "North Carolina Alcohol Law Enforcement, Transylvania County Sheriff's Office, Homeland Security",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Washington County Sheriff's Office",
+   "cause": "Gunshot",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "Prince George's County Sheriff's Office",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Yellowstone County Sheriff's Office",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Spokane Police Department",
+   "cause": "Death in custody",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "New York State Troopers",
+   "cause": "Struck by vehicle",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Boulder County Sheriff's Office",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "California Department of Fish and Wildlife",
+   "cause": "Gunshot",
+   "armed": "Knife"
+ },
+ {
+   "law_enforcement_agency": "Los Angeles Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Indianapolis Metropolitan Police Department",
+   "cause": "Gunshot",
+   "armed": "Vehicle"
+ },
+ {
+   "law_enforcement_agency": "St Paul Police Department",
+   "cause": "Gunshot",
+   "armed": "Vehicle"
+ },
+ {
+   "law_enforcement_agency": "Omaha Police Department",
+   "cause": "Gunshot",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "Chesapeake City Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Columbia Police Department and University of Missouri Police",
+   "cause": "Gunshot",
+   "armed": "Other"
+ },
+ {
+   "law_enforcement_agency": "Salem Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Rockford Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Creek County Sheriff's Department and Bristow Police Department",
+   "cause": "Gunshot",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "Shelby County Sheriff's Department [US Marshals Service Task Force]",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Broward Sheriff's Office",
+   "cause": "Unknown",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Stockton Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Chatham County Sheriff's Office",
+   "cause": "Death in custody",
+   "armed": "Other"
+ },
+ {
+   "law_enforcement_agency": "Carroll County Sheriff's Office",
+   "cause": "Gunshot",
+   "armed": "Other"
+ },
+ {
+   "law_enforcement_agency": "Sacramento Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "San Francisco Police Department",
+   "cause": "Gunshot",
+   "armed": "Other"
+ },
+ {
+   "law_enforcement_agency": "Eaton County Sheriff's Office",
+   "cause": "Gunshot",
+   "armed": "Other"
+ },
+ {
+   "law_enforcement_agency": "Tempe Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Oxnard Police Department",
+   "cause": "Gunshot",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "Kentucky State Police",
+   "cause": "Gunshot",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "Boise Police Department",
+   "cause": "Gunshot",
+   "armed": "Knife"
+ },
+ {
+   "law_enforcement_agency": "Wilmore Police Department",
+   "cause": "Gunshot",
+   "armed": "Non-lethal firearm"
+ },
+ {
+   "law_enforcement_agency": "Enfield Police Department",
+   "cause": "Taser",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "St Louis County Police Department",
+   "cause": "Gunshot",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "Springfield Police Department",
+   "cause": "Gunshot",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "Kauai Police Department",
+   "cause": "Struck by vehicle",
+   "armed": "Knife"
+ },
+ {
+   "law_enforcement_agency": "Kern County Sheriff's Office",
+   "cause": "Taser",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Pennsylvania State Police",
+   "cause": "Gunshot",
+   "armed": "Knife"
+ },
+ {
+   "law_enforcement_agency": "Delaware State Police",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Beacon Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Evans Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Cobb County Sheriff's Office",
+   "cause": "Gunshot",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "US Border Patrol",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Snohomish County Sheriff's Office",
+   "cause": "Gunshot",
+   "armed": "Knife"
+ },
+ {
+   "law_enforcement_agency": "Anaheim Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Clark County Sheriff's Department",
+   "cause": "Death in custody",
+   "armed": "Knife"
+ },
+ {
+   "law_enforcement_agency": "Garland Police Department",
+   "cause": "Gunshot",
+   "armed": "Vehicle"
+ },
+ {
+   "law_enforcement_agency": "Aurora Police Department",
+   "cause": "Gunshot",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "Fairfax County Sheriff's Office",
+   "cause": "Taser",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "Evangeline Parish Sheriff's Office",
+   "cause": "Gunshot",
+   "armed": "Knife"
+ },
+ {
+   "law_enforcement_agency": "Oklahoma Highway Patrol",
+   "cause": "Gunshot",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "Webster Police Department",
+   "cause": "Gunshot",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "Los Angeles County Sheriff's Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Des Moines Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Smyrna Police Department",
+   "cause": "Gunshot",
+   "armed": "Knife"
+ },
+ {
+   "law_enforcement_agency": "Phoenix Police Department",
+   "cause": "Gunshot",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "Campbell County Sheriff's Office",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "San Antonio Police Department",
+   "cause": "Taser",
+   "armed": "Vehicle"
+ },
+ {
+   "law_enforcement_agency": "New Jersey State Police",
+   "cause": "Struck by vehicle",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "New Orleans Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Pueblo Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Los Angeles Police Department",
+   "cause": "Gunshot",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "Stockton Police Department",
+   "cause": "Gunshot",
+   "armed": "Other"
+ },
+ {
+   "law_enforcement_agency": "Anaheim Police Department",
+   "cause": "Gunshot",
+   "armed": "Knife"
+ },
+ {
+   "law_enforcement_agency": "Weymouth Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Corona Police Department",
+   "cause": "Gunshot",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "Del Rio Police Department and Val Verde County Sheriff's Office",
+   "cause": "Gunshot",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "Vallejo Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Spartanburg County Sheriff's Office",
+   "cause": "Gunshot",
+   "armed": "Other"
+ },
+ {
+   "law_enforcement_agency": "Houston Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "San Jose Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Vineland Police Department",
+   "cause": "Death in custody",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Bloomington Police Department",
+   "cause": "Gunshot",
+   "armed": "Knife"
+ },
+ {
+   "law_enforcement_agency": "Stillwater Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Kansas City KS Police Department",
+   "cause": "Taser",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Minneapolis Police Department",
+   "cause": "Gunshot",
+   "armed": "Other"
+ },
+ {
+   "law_enforcement_agency": "Fort Worth Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Oklahoma City Police Department",
+   "cause": "Gunshot",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "Pennsylvania State Police",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "San Antonio Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Rochester Police Department",
+   "cause": "Taser",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Tehachapi Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Jourdanton Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Topeka Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Jefferson Parish Sheriff's Office",
+   "cause": "Gunshot",
+   "armed": "Disputed"
+ },
+ {
+   "law_enforcement_agency": "NSA Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Kennewick Police Department/Tri-City Swat Team",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Oregon State Police",
+   "cause": "Gunshot",
+   "armed": "Knife"
+ },
+ {
+   "law_enforcement_agency": "Bakersfield Police Department (Swat)",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Lake Jackson Police Department",
+   "cause": "Gunshot",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "Austin Police Department",
+   "cause": "Gunshot",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "Pulaski Police Department",
+   "cause": "Gunshot",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "Denham Springs Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Pike County Sheriff's Department",
+   "cause": "Gunshot",
+   "armed": "Vehicle"
+ },
+ {
+   "law_enforcement_agency": "Hawthorne Police Department",
+   "cause": "Gunshot",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "California Highway Patrol",
+   "cause": "Gunshot",
+   "armed": "Knife"
+ },
+ {
+   "law_enforcement_agency": "Monroe County Sheriff's Office",
+   "cause": "Unknown",
+   "armed": "Knife"
+ },
+ {
+   "law_enforcement_agency": "Los Angeles Police Department",
+   "cause": "Gunshot",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "Gulfport Police Department",
+   "cause": "Gunshot",
+   "armed": "Other"
+ },
+ {
+   "law_enforcement_agency": "Department of Veteran Affairs",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Shafter Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Freeport Police Department",
+   "cause": "Gunshot",
+   "armed": "Knife"
+ },
+ {
+   "law_enforcement_agency": "Harvey Police Department",
+   "cause": "Gunshot",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "Laredo Police Department",
+   "cause": "Gunshot",
+   "armed": "Knife"
+ },
+ {
+   "law_enforcement_agency": "Grapevine Police Department",
+   "cause": "Gunshot",
+   "armed": "Vehicle"
+ },
+ {
+   "law_enforcement_agency": "Franklin County Corrections Division",
+   "cause": "Death in custody",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Kingman Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Los Angeles Police Department",
+   "cause": "Gunshot",
+   "armed": "Knife"
+ },
+ {
+   "law_enforcement_agency": "North Las Vegas Police Department",
+   "cause": "Gunshot",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "Tempe, Chandler and Mesa Police Departments [US Marshals Service Task Force]",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Lino Lakes Police Department",
+   "cause": "Gunshot",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "Hidalgo County Sheriff's Office",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Austin Police Department",
+   "cause": "Gunshot",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "San Jose Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Monmouth County Emergency Response Team",
+   "cause": "Gunshot",
+   "armed": "Non-lethal firearm"
+ },
+ {
+   "law_enforcement_agency": "Michigan State Police, Kalamazoo County Sheriff's Office and Portage Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Los Angeles Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Lawrence County Sheriff's Office",
+   "cause": "Gunshot",
+   "armed": "Other"
+ },
+ {
+   "law_enforcement_agency": "Joliet Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Pinal County Sheriff's Office",
+   "cause": "Gunshot",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "Hamilton Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Honolulu Police Department",
+   "cause": "Taser",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "San Diego County Sheriff's Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Brooklyn Center Police Department",
+   "cause": "Taser",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Homewood Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Ca�_�on City Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Riverside County Sheriff's Department",
+   "cause": "Gunshot",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "Tacoma Police Department",
+   "cause": "Gunshot",
+   "armed": "Knife"
+ },
+ {
+   "law_enforcement_agency": "Lauderdale County Sheriff's Office",
+   "cause": "Taser",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "Wisconsin State Police",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Old Bridge Police Department",
+   "cause": "Gunshot",
+   "armed": "Knife"
+ },
+ {
+   "law_enforcement_agency": "Muskogee Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Immigration and Customs Enforcement",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Mansfield Police Department",
+   "cause": "Taser",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Cecil County Sheriff's Office",
+   "cause": "Gunshot",
+   "armed": "Knife"
+ },
+ {
+   "law_enforcement_agency": "Osage Nation Police Department",
+   "cause": "Taser",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Miami-Dade Police Department",
+   "cause": "Gunshot",
+   "armed": "Knife"
+ },
+ {
+   "law_enforcement_agency": "St Louis County Police Department",
+   "cause": "Gunshot",
+   "armed": "Knife"
+ },
+ {
+   "law_enforcement_agency": "Cleveland Division of Police",
+   "cause": "Gunshot",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "Wellston Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Syracuse Police Department, Davis County Sheriff's Office",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Los Angeles County Sheriff's Department",
+   "cause": "Gunshot",
+   "armed": "Knife"
+ },
+ {
+   "law_enforcement_agency": "US Border Patrol",
+   "cause": "Gunshot",
+   "armed": "Other"
+ },
+ {
+   "law_enforcement_agency": "Omaha Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Mason County Sheriff's Office",
+   "cause": "Gunshot",
+   "armed": "Non-lethal firearm"
+ },
+ {
+   "law_enforcement_agency": "Ruidoso Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Riverside County Sheriff's Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Trinidad Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Tuscola Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Madison Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Sulphur Springs Police Department",
+   "cause": "Taser",
+   "armed": "Knife"
+ },
+ {
+   "law_enforcement_agency": "Pike County Sheriff's Office",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Oklahoma Highway Patrol and Tupelo Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Jefferson County Sheriff Department",
+   "cause": "Gunshot",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "Milwaukee Police Department",
+   "cause": "Gunshot",
+   "armed": "Non-lethal firearm"
+ },
+ {
+   "law_enforcement_agency": "US Marshals Service",
+   "cause": "Gunshot",
+   "armed": "Unknown"
+ },
+ {
+   "law_enforcement_agency": "Texas Rangers/ ATF",
+   "cause": "Gunshot",
+   "armed": "Other"
+ },
+ {
+   "law_enforcement_agency": "Austin Police Department",
+   "cause": "Gunshot",
+   "armed": "Knife"
+ },
+ {
+   "law_enforcement_agency": "New York State Police, Monroe County Sheriff's Department and Gates Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Houston County Sheriff's Department",
+   "cause": "Gunshot",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "Los Angeles County Sheriff's Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Clarkstown Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Portsmouth Police Department",
+   "cause": "Gunshot",
+   "armed": "Other"
+ },
+ {
+   "law_enforcement_agency": "North Charleston Police Department",
+   "cause": "Gunshot",
+   "armed": "Knife"
+ },
+ {
+   "law_enforcement_agency": "Fort Worth Police Department",
+   "cause": "Gunshot",
+   "armed": "Unknown"
+ },
+ {
+   "law_enforcement_agency": "Wichita County Sheriff's Office",
+   "cause": "Taser",
+   "armed": "Unknown"
+ },
+ {
+   "law_enforcement_agency": "Hoover Police Department",
+   "cause": "Gunshot",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "Winslow Police Department",
+   "cause": "Gunshot",
+   "armed": "Non-lethal firearm"
+ },
+ {
+   "law_enforcement_agency": "Portsmouth Police Department",
+   "cause": "Gunshot",
+   "armed": "No"
+ },
+ {
+   "law_enforcement_agency": "US Forest Service ",
+   "cause": "Taser",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Gaston County Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Emeryville Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ },
+ {
+   "law_enforcement_agency": "Fremont Police Department",
+   "cause": "Gunshot",
+   "armed": "Firearm"
+ }
+]
